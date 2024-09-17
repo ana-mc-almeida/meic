@@ -538,9 +538,26 @@ function updateLineChart(data) {
 // Triggered events
 
 function mouseOverFunction(event, d) {
-  
+  // d3.select(this)
+  //   .style("fill", "orange")
+
+  d3.selectAll(".dataItem")
+    .filter((dataItem) => dataItem.title == d.title)
+    .style("fill", "red");
 }
 
 function mouseLeaveFunction(event, d) {
-  
+  d3.selectAll(".dataItem")
+    .filter((dataItem) => dataItem.title == d.title)
+    .style("fill", "steelblue")
+
+  // For the bar chart we need to update the color to match the color scale
+  const colorScale = d3
+    .scaleLinear()
+    .domain([d3.min(globalData, (d) => d.budget), d3.max(globalData, (d) => d.budget)])
+    .range([0, 1]);
+
+  d3.selectAll(".BarChart .dataItem")
+    .style("fill", (d) => d3.interpolateBlues(colorScale(d.budget)))
+
 }
