@@ -16,7 +16,6 @@ Não tirei notas :smile:
     - questions
     - dataset (na última aula da semana)
 
-
 #### Wine Workshop
 
 1. Domain
