@@ -1,0 +1,351 @@
+id,points,price,province,title,variety,winery,year
+70163,89,50.0,Douro,Muxagat 2011 Os Xistos Altos Rabigato (Douro),Rabigato,Muxagat,2011
+89261,93,48.0,Alentejo,Cartuxa 2012 Colheita Red (Alentejo),Portuguese Red,Cartuxa,2012
+113289,85,9.0,Tejo,Caves Velhas 2015 Serradayres Reserva White (Tejo),Portuguese White,Caves Velhas,2015
+43179,90,15.0,Minho,Quinta da Lixa 2015 Pouco Comum Alvarinho (Minho),Alvarinho,Quinta da Lixa,2015
+25750,91,16.0,Beira Interior,Companhia das Quintas 2011 Quinta do Cardo Selecção do Enólogo Red (Beira Interior),Portuguese Red,Companhia das Quintas,2011
+78595,93,70.0,Port,Dow's 2015 Quinta Senhora da Ribeira Vintage  (Port),Port,Dow's,2015
+34843,89,31.0,Douro,Roncão 2014 Quinta da Levandeira Grande Reserva Red (Douro),Portuguese Red,Roncão,2014
+114974,98,127.0,Port,Quinta do Vesuvio 2011 Capela Vintage  (Port),Port,Quinta do Vesuvio,2011
+16164,93,36.0,Tejo,Wines & Winemakers 2014 Companhia das Lezirias Tyto Alba Touriga Nacional (Tejo),Touriga Nacional,Wines & Winemakers,2014
+64931,88,9.0,Douro,Aveleda 2014 Charamba Reserva Red (Douro),Portuguese Red,Aveleda,2014
+129680,93,39.0,Douro,Casca Wines 2011 Monte Cascas Grande Reserva Red (Douro),Portuguese Red,Casca Wines,2011
+26015,86,12.0,Alentejano,Herdade Grande 2011 Verdelho (Alentejano),Verdelho,Herdade Grande,2011
+51620,88,22.0,Douro,Quinta Nova de Nossa Senhora do Carmo 2015 Unoaked Red (Douro),Portuguese Red,Quinta Nova de Nossa Senhora do Carmo,2015
+120863,91,60.0,Douro,Quinta do Vallado 2012 Touriga Nacional (Douro),Touriga Nacional,Quinta do Vallado,2012
+30722,88,12.0,Bairrada,Caves Aliança 2013 Aliança Reserva Branco White (Bairrada),Portuguese White,Caves Aliança,2013
+22062,84,7.0,Tejo,Adega Cooperativa do Cartaxo 2013 Coudel Mor Clássico Red (Tejo),Portuguese Red,Adega Cooperativa do Cartaxo,2013
+6501,82,20.0,Douro,Roncão 2012 Quinta da Levandeira Reserva Red (Douro),Portuguese Red,Roncão,2012
+37088,87,8.0,Dão,Quinta da Beira 2014 Faisão Red (Dão),Portuguese Red,Quinta da Beira,2014
+40677,85,10.0,Lisboa,Casa Santos Lima 2013 Quinta de Bons-Ventos Red (Lisboa),Portuguese Red,Casa Santos Lima,2013
+1208,93,55.0,Douro,Quinta da Foz 2016 Reserva Red (Douro),Portuguese Red,Quinta da Foz,2016
+54742,92,35.0,Dão,Magnum Vinhos 2013 Ribeiro Santo Vinha da Neve White (Dão),Portuguese White,Magnum Vinhos,2013
+72194,87,16.0,Tejo,Fiuza 2014 Premium Sauvignon Blanc (Tejo),Sauvignon Blanc,Fiuza,2014
+67744,89,15.0,Tejo,Falua 2012 Tagus Creek Reserva Touriga Nacional-Cabernet Sauvignon (Tejo),Touriga Nacional-Cabernet Sauvignon,Falua,2012
+109650,88,84.0,Port,Quinta Vale Dona Maria 2014 Vintage  (Port),Port,Quinta Vale Dona Maria,2014
+35364,92,50.0,Dão,Fontes da Cunha 2013 Munda Touriga Nacional (Dão),Touriga Nacional,Fontes da Cunha,2013
+90715,92,39.0,Alentejano,Ribafreixo 2012 Gáudio Clássico Reserva Red (Alentejano),Portuguese Red,Ribafreixo,2012
+67530,87,11.0,Douro,Wines & Winemakers 2012 Colleja Red (Douro),Portuguese Red,Wines & Winemakers,2012
+122334,91,20.0,Alentejano,Quinta de São Sebastião 2013 Lima Mayer Red (Alentejano),Portuguese Red,Quinta de São Sebastião,2013
+68864,86,9.0,Alentejano,J. Portugal Ramos 2016 Loios Tinto Red (Alentejano),Portuguese Red,J. Portugal Ramos,2016
+4642,94,50.0,Dão,Casa Anadia 2013 Palácio Anadia Reserva Touriga Nacional (Dão),Touriga Nacional,Casa Anadia,2013
+82228,87,13.0,Alentejo,Ribafreixo 2012 Pato Frio Antão Vaz (Alentejo),Antão Vaz,Ribafreixo,2012
+101549,86,9.0,Alentejano,Santos & Seixo 2016 Rotas de Portugal Branco White (Alentejano),Portuguese White,Santos & Seixo,2016
+13363,92,39.0,Alentejano,Ribafreixo 2012 Gáudio Clássico Reserva Red (Alentejano),Portuguese Red,Ribafreixo,2012
+108347,93,45.0,Alentejano,Herdade da Malhadinha Nova 2011 Malhadinha Tinto Red (Alentejano),Portuguese Red,Herdade da Malhadinha Nova,2011
+77884,85,6.0,Tejo,Caves Velhas 2015 Serradayres Colheita Seleccionada Red (Tejo),Portuguese Red,Caves Velhas,2015
+91597,83,9.0,Tejo,Quinta do Casal Monteiro 2013 Terra de Touros Red (Tejo),Portuguese Red,Quinta do Casal Monteiro,2013
+128598,85,8.0,Portuguese Table Wine,Herdade do Esporão 2016 Alandra Branco White (Portuguese Table Wine),Portuguese White,Herdade do Esporão,2016
+16533,95,55.0,Port,Croft 2015 Quinta da Roeda  (Port),Port,Croft,2015
+30240,86,10.0,Lisboa,Quinta de São Sebastião 2010 Mina Velha Red (Lisboa),Portuguese Red,Quinta de São Sebastião,2010
+36920,88,12.0,Alentejano,Tahora 2015 Ares de Medeiros Branco White (Alentejano),Portuguese White,Tahora,2015
+123491,86,15.0,Lisboa,Quinta da Casaboa 2012 Tinta Boa Red (Lisboa),Portuguese Red,Quinta da Casaboa,2012
+35214,91,35.0,Dão,Vinha Paz 2013 Colheita Red (Dão),Portuguese Red,Vinha Paz,2013
+128280,92,35.0,Dão,Vinha Paz 2014 Colheita White (Dão),Portuguese White,Vinha Paz,2014
+102996,85,12.0,Alentejano,Cortes de Cima 2012 Chaminé Branco White (Alentejano),Portuguese White,Cortes de Cima,2012
+32421,91,26.0,Alentejano,Casa Santa Vitória 2014 Grande Reserva Tinto Red (Alentejano),Portuguese Red,Casa Santa Vitória,2014
+39592,88,19.0,Alentejano,Fitapreta Vinhos 2011 Reserva Red (Alentejano),Portuguese Red,Fitapreta Vinhos,2011
+3444,88,19.0,Douro,Quinta dos Poços 2013 Reserva Red (Douro),Portuguese Red,Quinta dos Poços,2013
+726,85,9.0,Vinho Verde,Quinta de Paços 2015 Casa de Paços Rosé (Vinho Verde),Rosé,Quinta de Paços,2015
+81602,86,10.0,Alentejano,J. Portugal Ramos 2013 F'Oz Red (Alentejano),Portuguese Red,J. Portugal Ramos,2013
+79170,88,18.0,Douro,Wines & Winemakers 2015 Andreza Códega do Larinho (Douro),Códega do Larinho,Wines & Winemakers,2015
+124239,84,9.0,Lisboa,DFJ Vinhos 2012 Casa do Lago Branco White (Lisboa),Portuguese White,DFJ Vinhos,2012
+29524,84,10.0,Douro,Valle da Fonte 2015 White (Douro),Portuguese White,Valle da Fonte,2015
+102359,87,24.0,Douro,Caves Transmontanas 2011 Vertice Grande Reserva Red (Douro),Portuguese Red,Caves Transmontanas,2011
+112180,88,20.0,Douro,Quinta da Romaneira 2012 Sino da Romaneira Red (Douro),Portuguese Red,Quinta da Romaneira,2012
+62671,90,35.0,Duriense,Quinta da Romaneira 2013 Syrah (Duriense),Syrah,Quinta da Romaneira,2013
+60728,84,10.0,Beira Interior,Companhia das Quintas 2014 Barão de Figueira Branco Siria (Beira Interior),Siria,Companhia das Quintas,2014
+41661,87,18.0,Douro,Wines & Winemakers 2013 Andreza Códega do Larinho (Douro),Códega do Larinho,Wines & Winemakers,2013
+26483,87,14.0,Douro,Quinta dos Murças 2016 Assobio Branco White (Douro),Portuguese White,Quinta dos Murças,2016
+745,85,12.0,Alentejo,Ribafreixo 2015 Pato Frio Antão Vaz (Alentejo),Antão Vaz,Ribafreixo,2015
+91942,89,12.0,Beira Interior,Companhia das Quintas 2010 Quinta do Cardo Red (Beira Interior),Portuguese Red,Companhia das Quintas,2010
+122583,89,22.0,Alentejano,Cortes de Cima 2015 White (Alentejano),Portuguese White,Cortes de Cima,2015
+18383,88,28.0,Alentejo,Herdade do Perdigão 2011 Herdade Perdigão Reserva Red (Alentejo),Portuguese Red,Herdade do Perdigão,2011
+94851,91,20.0,Douro,Maçanita Vinhos 2013 Tinto Red (Douro),Portuguese Red,Maçanita Vinhos,2013
+126282,84,10.0,Lisboa,DFJ Vinhos 2015 Casa do Lago Rosé (Lisboa),Rosé,DFJ Vinhos,2015
+116747,87,34.0,Douro,Lavradores de Feitoria 2010 Meruge Red (Douro),Portuguese Red,Lavradores de Feitoria,2010
+48613,84,10.0,Portuguese Table Wine,Herdade do Esporão 2015 Alandra Rosé (Portuguese Table Wine),Rosé,Herdade do Esporão,2015
+48730,91,30.0,Douro,Quanta Terra 2013 Grande Reserva Branco White (Douro),Portuguese White,Quanta Terra,2013
+119117,88,15.0,Douro,Lemos & Van Zeller 2012 Van Zellers Red (Douro),Portuguese Red,Lemos & Van Zeller,2012
+43278,85,11.0,Península de Setúbal,José Maria da Fonseca 2015 Periquita Branco White (Península de Setúbal),Portuguese White,José Maria da Fonseca,2015
+39635,91,26.0,Lisboa,Casa Santos Lima 2013 Confidencial Reserva Red (Lisboa),Portuguese Red,Casa Santos Lima,2013
+101972,87,11.0,Lisboa,Quinta da Romeira 2014 Prova Régia Arinto (Lisboa),Arinto,Quinta da Romeira,2014
+34234,88,15.0,Douro,Quinta do Portal 2012 Colheita Branco White (Douro),Portuguese White,Quinta do Portal,2012
+15513,93,20.0,Beira Interior,Rui Roboredo Madeira 2012 Beyra Superior Red (Beira Interior),Portuguese Red,Rui Roboredo Madeira,2012
+23302,91,15.0,Alentejano,Perescuma 2013 Red (Alentejano),Portuguese Red,Perescuma,2013
+107511,86,11.0,Alentejo,Ribafreixo 2016 Pato Frio Antão Vaz (Alentejo),Antão Vaz,Ribafreixo,2016
+14022,88,18.0,Vinho Verde,Quinta da Calçada 2015 Calçada Terroir Loureiro-Alvarinho White (Vinho Verde),Portuguese White,Quinta da Calçada,2015
+82113,88,18.0,Douro,Wines & Winemakers 2012 Azul Portugal Reserva Red (Douro),Portuguese Red,Wines & Winemakers,2012
+50308,84,11.0,Península de Setúbal,Wines & Winemakers 2013 Azul Portugal Rosé (Península de Setúbal),Rosé,Wines & Winemakers,2013
+98669,83,10.0,Vinho Verde,Pátria 2012 White (Vinho Verde),Portuguese White,Pátria,2012
+101297,83,8.0,Tejo,Quinta do Casal Monteiro 2014 Terra de Touros Arinto (Tejo),Arinto,Quinta do Casal Monteiro,2014
+25054,85,15.0,Tejo,Quinta da Lagoalva de Cima 2016 Lagoalva Vinho Branco White (Tejo),Portuguese White,Quinta da Lagoalva de Cima,2016
+94983,85,10.0,Tejo,Quinta do Casal Branco 2015 Terra de Lobos Red (Tejo),Portuguese Red,Quinta do Casal Branco,2015
+25523,86,10.0,Alentejano,Herdade do Esporão 2013 Monte Velho White (Alentejano),Portuguese White,Herdade do Esporão,2013
+70152,92,45.0,Alentejo,Dona Maria-Júlio Bastos 2011 Dona Maria Grande Reserva Red (Alentejo),Portuguese Red,Dona Maria-Júlio Bastos,2011
+114746,93,40.0,Alentejo,Mouchão 2015 Ponte das Canas Red (Alentejo),Portuguese Red,Mouchão,2015
+39055,87,12.0,Alentejano,Henrique José de La Puente Sancho Uva 2012 Terras d'Uva Red (Alentejano),Portuguese Red,Henrique José de La Puente Sancho Uva,2012
+16721,90,15.0,Dão,Casa da Passarella 2014 Tinto Red (Dão),Portuguese Red,Casa da Passarella,2014
+82960,86,16.0,Douro,Quinta de la Rosa 2011 Dourosa Branco White (Douro),Portuguese White,Quinta de la Rosa,2011
+126009,84,10.0,Tejo,Quinta do Casal Branco 2013 White (Tejo),Portuguese White,Quinta do Casal Branco,2013
+3039,88,9.0,Lisboa,Manzwine 2014 Penedo do Lexim Red (Lisboa),Portuguese Red,Manzwine,2014
+7195,90,80.0,Port,Cockburn's 2015 Bicentenary Vintage  (Port),Port,Cockburn's,2015
+50369,92,42.0,Bairrada,Vadio Wines 2012 Grande Vadio Baga (Bairrada),Baga,Vadio Wines,2012
+8020,86,8.0,Alentejano,Herdade de São Miguel 2012 Ciconia Red (Alentejano),Portuguese Red,Herdade de São Miguel,2012
+104675,91,39.0,Alentejano,Herdade do Esporão 2012 S Syrah (Alentejano),Syrah,Herdade do Esporão,2012
+46686,93,45.0,Douro,Rui Roboredo Madeira 2014 Quinta de Fafide 12 Barrels Red (Douro),Portuguese Red,Rui Roboredo Madeira,2014
+3922,87,18.0,Tejo,Quinta do Cavalinho 2013 Templários Colheita Seleccionada Red (Tejo),Portuguese Red,Quinta do Cavalinho,2013
+97365,85,15.0,Minho,Casca Wines 2011 Cape Roca Fish Alvarinho (Minho),Alvarinho,Casca Wines,2011
+11420,91,19.0,Dão,Magnum Vinhos 2016 Ribeiro Santo Encruzado (Dão),Encruzado,Magnum Vinhos,2016
+1620,85,6.0,Alentejano,Adega Cooperativa de Borba 2016 Brado Branco White (Alentejano),Portuguese White,Adega Cooperativa de Borba,2016
+5396,85,20.0,Alentejano,Rovisco Garcia 2012 Rosé (Alentejano),Rosé,Rovisco Garcia,2012
+1072,94,150.0,Douro,Poças 2014 Símbolo Red (Douro),Portuguese Red,Poças,2014
+32384,87,13.0,Douro,Quinta das Carvalhas 2014 Carvalhas QV Red (Douro),Portuguese Red,Quinta das Carvalhas,2014
+34197,85,9.0,Tejo,Quinta do Cavalinho 2014 Vale das Donas Red (Tejo),Portuguese Red,Quinta do Cavalinho,2014
+81873,89,12.0,Bairrada,Campolargo 2011 Vinha do Putto Red (Bairrada),Portuguese Red,Campolargo,2011
+8171,87,12.0,Vinho Verde,Wines & Winemakers 2016 Maria Bonita Loureiro (Vinho Verde),Loureiro,Wines & Winemakers,2016
+18257,92,25.0,Douro,Valle da Fonte 2014 Vinhas Velhas Old Vines Red (Douro),Portuguese Red,Valle da Fonte,2014
+99191,90,22.0,Alentejano,Espaço Rural 2011 Dornas Red (Alentejano),Portuguese Red,Espaço Rural,2011
+74489,89,25.0,Port,Quevedo 2012 LBV  (Port),Port,Quevedo,2012
+86738,92,30.0,Dão,Global Wines 2014 Casa de Santar Vinha dos Amores Encruzado (Dão),Encruzado,Global Wines,2014
+126068,88,15.0,Douro,Ramos-Pinto 2010 Duas Quintas Red (Douro),Portuguese Red,Ramos-Pinto,2010
+5517,83,10.0,Tejo,Quinta do Cavalinho 2014 Vale das Donas White (Tejo),Portuguese White,Quinta do Cavalinho,2014
+26814,90,14.0,Douro,Quinta Seara d'Ordens 2014 Reserva Red (Douro),Portuguese Red,Quinta Seara d'Ordens,2014
+9878,88,15.0,Beira Interior,Companhia das Quintas 2015 Quinta do Cardo Branco Siria (Beira Interior),Siria,Companhia das Quintas,2015
+5850,88,12.0,Dão,Borges 2013 Reserva Tinto Red (Dão),Portuguese Red,Borges,2013
+76927,91,45.0,Douro,Quinta do Filoco 2011 Grande Reserva Tinto Touriga Nacional (Douro),Touriga Nacional,Quinta do Filoco,2011
+110189,91,15.0,Tejo,Caves Velhas 2013 Cabeça de Toiro Reserva Red (Tejo),Portuguese Red,Caves Velhas,2013
+23475,91,20.0,Beiras,Quinta de Foz de Arouce 2010 Baga-Touriga Nacional (Beiras),Baga-Touriga Nacional,Quinta de Foz de Arouce,2010
+124225,84,12.0,Tejo,Quinta da Alorna 2012 Rosé (Tejo),Rosé,Quinta da Alorna,2012
+76193,95,87.0,Douro,Quinta do Noval 2014 Red (Douro),Portuguese Red,Quinta do Noval,2014
+46356,91,33.0,Port,Borges 2012 Soalheira Vintage  (Port),Port,Borges,2012
+123873,89,18.0,Alentejano,Terras de Alter 2012 Fado Branco Reserva White (Alentejano),Portuguese White,Terras de Alter,2012
+23066,91,26.0,Douro,Quinta do Crasto 2011 Crasto Superior Red (Douro),Portuguese Red,Quinta do Crasto,2011
+40097,90,25.0,Alentejano,Casa Santos Lima 2015 Quid Pro Quo Reserva Red (Alentejano),Portuguese Red,Casa Santos Lima,2015
+17804,84,12.0,Alentejano,Cortes de Cima 2014 Chaminé Red (Alentejano),Portuguese Red,Cortes de Cima,2014
+95493,89,16.0,Vinho Verde,Quinta da Raza 2015 Alvarinho-Trajadura Grande Escolha White (Vinho Verde),Portuguese White,Quinta da Raza,2015
+121138,83,8.0,Lisboa,DFJ Vinhos 2010 Bigode Red (Lisboa),Portuguese Red,DFJ Vinhos,2010
+28670,85,10.0,Lisboa,DFJ Vinhos 2016 Portada Winemaker's Selection Rosé (Lisboa),Rosé,DFJ Vinhos,2016
+83541,85,9.0,Lisboa,DFJ Vinhos 2015 Bigode Rosé (Lisboa),Rosé,DFJ Vinhos,2015
+54227,86,10.0,Alentejano,Casca Wines 2015 Cascas Winemaker Selection Red (Alentejano),Portuguese Red,Casca Wines,2015
+74889,96,100.0,Douro,Wine & Soul 2013 Pintas Red (Douro),Portuguese Red,Wine & Soul,2013
+75295,84,10.0,Lisboa,DFJ Vinhos 2014 Alta Corte Red (Lisboa),Portuguese Red,DFJ Vinhos,2014
+51456,84,18.0,Lisboa,DFJ Vinhos 2016 Cara Viva Branco White (Lisboa),Portuguese White,DFJ Vinhos,2016
+127985,87,12.0,Tejo,Quinta da Lapa 2013 Reserva Tinto Merlot (Tejo),Merlot,Quinta da Lapa,2013
+103462,88,50.0,Alentejano,Casa Agricola Alexandre Relvas 2014 Passi Colheita Tardiva Red (Alentejano),Portuguese Red,Casa Agricola Alexandre Relvas,2014
+80911,90,25.0,Lisboa,Quinta do Pinto 2010 Estate Collection Red (Lisboa),Portuguese Red,Quinta do Pinto,2010
+28671,85,8.0,Vinho Verde,Enoport 2016 Faisão White (Vinho Verde),Portuguese White,Enoport,2016
+69632,89,12.0,Tejo,Wines & Winemakers 2013 Companhia das Lezírias Herdade de Catapereiro Red (Tejo),Portuguese Red,Wines & Winemakers,2013
+1215,93,28.0,Douro,Bacalhôa Wines of Portugal 2014 Quinta dos Quatros Ventos Red (Douro),Portuguese Red,Bacalhôa Wines of Portugal,2014
+64710,89,12.0,Dão,Magnum Vinhos 2014 Ribeiro Santo White (Dão),Portuguese White,Magnum Vinhos,2014
+48949,92,23.0,Douro,Castello d'Alba 2012 Vinhas Velhas Grande Reserva Red (Douro),Portuguese Red,Castello d'Alba,2012
+15027,88,19.0,Douro,Quanta Terra 2010 Terra a Terra Branco Reserva White (Douro),Portuguese White,Quanta Terra,2010
+121570,89,15.0,Lisboa,DFJ Vinhos 2014 Grand'Arte Touriga Nacional (Lisboa),Touriga Nacional,DFJ Vinhos,2014
+127724,88,30.0,Bairrada,Campolargo 2015 Verdelho (Bairrada),Verdelho,Campolargo,2015
+15632,92,78.0,Port,Duorum 2011 Vintage  (Port),Port,Duorum,2011
+122724,91,30.0,Douro,Muxagat 2012 Tinto Red (Douro),Portuguese Red,Muxagat,2012
+58802,86,7.0,Alentejano,Herdade de São Miguel 2012 Vinho Atlântico Red (Alentejano),Portuguese Red,Herdade de São Miguel,2012
+88487,89,14.0,Tejo,Fiuza 2015 Touriga Nacional-Merlot Red (Tejo),Portuguese Red,Fiuza,2015
+116974,88,17.0,Alentejano,Herdade Grande 2010 Red (Alentejano),Portuguese Red,Herdade Grande,2010
+105247,90,18.0,Douro,Porca de Murça 2012 Reserva Tinto Red (Douro),Portuguese Red,Porca de Murça,2012
+87694,87,9.0,Dão,Global Wines 2014 Vinha Maria Premium Red (Dão),Portuguese Red,Global Wines,2014
+69063,86,15.0,Tejo,Quinta da Lagoalva de Cima 2016 Lagoalva Sauvignon Blanc (Tejo),Sauvignon Blanc,Quinta da Lagoalva de Cima,2016
+9131,90,59.0,Douro,Quinta Seara d'Ordens 2010 Reserva Vinhas Velhas Red (Douro),Portuguese Red,Quinta Seara d'Ordens,2010
+78803,92,22.0,Lisboa,Adega Mãe 2013 Dory Reserva Red (Lisboa),Portuguese Red,Adega Mãe,2013
+61254,85,8.0,Lisboa,DFJ Vinhos 2012 Bigode Red (Lisboa),Portuguese Red,DFJ Vinhos,2012
+113397,87,10.0,Alentejano,J. Portugal Ramos 2011 Loios Tinto Red (Alentejano),Portuguese Red,J. Portugal Ramos,2011
+83650,90,15.0,Lisboa,Casa Santos Lima 2012 Cigarra Reserva Shiraz-Touriga Nacional Red (Lisboa),Portuguese Red,Casa Santos Lima,2012
+80375,84,20.0,Vinho Espumante de Qualidade,Bacalhôa Wines of Portugal 2011 Loridos Rosé Bruto Sparkling (Vinho Espumante de Qualidade),Portuguese Sparkling,Bacalhôa Wines of Portugal,2011
+79220,90,13.0,Lisboa,Casa Santos Lima 2013 Stones & Bones Red (Lisboa),Portuguese Red,Casa Santos Lima,2013
+2149,84,33.0,Douro,Quinta da Padrela 2013 Premium Red (Douro),Portuguese Red,Quinta da Padrela,2013
+120220,90,30.0,Alentejano,Terras de Alter 2013 Terra d'Alter Reserva Branco White (Alentejano),Portuguese White,Terras de Alter,2013
+17315,89,19.0,Tejo,Caves Dom Teodosio 2010 Quinta de S João Batista Reserva Touriga Nacional-Cabernet Sauvignon (Tejo),Touriga Nacional-Cabernet Sauvignon,Caves Dom Teodosio,2010
+71085,88,25.0,Douro,Secret Spot Wines 2015 Crooked Vines Vinho Branco White (Douro),Portuguese White,Secret Spot Wines,2015
+90205,84,15.0,Alentejano,Herdade do Rocim 2016 Mariana Rosé (Alentejano),Rosé,Herdade do Rocim,2016
+90413,88,14.0,Alentejano,Terras de Alter 2013 Terra d'Alter Siria (Alentejano),Siria,Terras de Alter,2013
+13860,86,10.0,Tejo,Quinta do Casal Monteiro 2014 White (Tejo),Portuguese White,Quinta do Casal Monteiro,2014
+101477,83,10.0,Tejo,Herdade dos Templários 2010 Vale das Donas Red (Tejo),Portuguese Red,Herdade dos Templários,2010
+57711,92,33.0,Bairrada,Global Wines 2011 Encontro Special Cuvée Bruto Sparkling (Bairrada),Portuguese Sparkling,Global Wines,2011
+17652,92,65.0,Lisboa,Quinta do Monte d'Oiro 2010 Reserva Red (Lisboa),Portuguese Red,Quinta do Monte d'Oiro,2010
+18749,88,12.0,Tejo,Quinta do Casal Monteiro 2013 White (Tejo),Portuguese White,Quinta do Casal Monteiro,2013
+7734,88,22.0,Douro,Quinta Nova de Nossa Senhora do Carmo 2014 Reserva Unoaked Red (Douro),Portuguese Red,Quinta Nova de Nossa Senhora do Carmo,2014
+16046,87,10.0,Alentejano,Terras de Alter 2015 Terra d'Alter Síria-Arinto-Viognier White (Alentejano),Portuguese White,Terras de Alter,2015
+10024,91,18.0,Douro,Poças 2011 Vale de Cavalos Red (Douro),Portuguese Red,Poças,2011
+78684,91,24.0,Douro,Prats & Symington LDA 2011 Post Scriptum Red (Douro),Portuguese Red,Prats & Symington LDA,2011
+61751,85,10.0,Vinho Verde,Caves Campelo 2015 Campelo White (Vinho Verde),Portuguese White,Caves Campelo,2015
+25916,87,15.0,Douro,Quinta de Porrais 2013 Porrais Red (Douro),Portuguese Red,Quinta de Porrais,2013
+74495,89,13.0,Douro,Secret Spot Wines 2016 Vale da Poupa Branco Moscatel (Douro),Moscatel,Secret Spot Wines,2016
+119965,91,49.0,Alentejano,Herdade Grande 2012 Grande Reserva Red (Alentejano),Portuguese Red,Herdade Grande,2012
+129685,93,50.0,Península de Setúbal,Herdade da Comporta 2010 Comporta Alicante Bouschet (Península de Setúbal),Alicante Bouschet,Herdade da Comporta,2010
+4939,86,18.0,Lisboa,Quinta de Sant'Ana 2010 Rosé (Lisboa),Rosé,Quinta de Sant'Ana,2010
+52367,88,19.0,Lisboa,Quinta de Sant'Ana 2013 Q de Sant'Ana Pinot Noir (Lisboa),Pinot Noir,Quinta de Sant'Ana,2013
+32700,90,11.0,Bairrada,Aveleda 2013 Follies Nossa Senhora da Vandoma Touriga Nacional-Cabernet Sauvignon (Bairrada),Touriga Nacional-Cabernet Sauvignon,Aveleda,2013
+44953,85,12.0,Alentejano,Cortes de Cima 2011 Chaminé Branco White (Alentejano),Portuguese White,Cortes de Cima,2011
+9715,90,39.0,Lisboa,Quinta da Casaboa 2011 Casaboa Reserva Touriga Nacional (Lisboa),Touriga Nacional,Quinta da Casaboa,2011
+42758,91,25.0,Lisboa,Vidigal 2010 Brutalis Red (Lisboa),Portuguese Red,Vidigal,2010
+720,85,22.0,Alentejano,Cortes de Cima 2015 Rosé (Alentejano),Rosé,Cortes de Cima,2015
+71095,88,12.0,Douro,Borges 2015 Reserva White (Douro),Portuguese White,Borges,2015
+81550,88,15.0,Tejo,Enoport 2012 Enigma Reserva Red (Tejo),Portuguese Red,Enoport,2012
+93345,87,10.0,Tejo,Quinta da Alorna 2011 Portal da Aguia White (Tejo),Portuguese White,Quinta da Alorna,2011
+48851,90,20.0,Lisboa,Casa Santos Lima 2015 Oak Aged 6 Months Arinto (Lisboa),Arinto,Casa Santos Lima,2015
+49244,84,22.0,Douro,Quinta do Judeu 2012 White (Douro),Portuguese White,Quinta do Judeu,2012
+38979,96,80.0,Douro,Quinta do Vale Meão 2011 Red (Douro),Portuguese Red,Quinta do Vale Meão,2011
+27743,85,10.0,Alentejano,Herdade de São Miguel 2011 Ciconia Aragonez (Alentejano),Aragonez,Herdade de São Miguel,2011
+35479,90,23.0,Douro,Quinta do Castelinho 2014 Quinta Dona Mafalda Vinhas Velhas Red (Douro),Portuguese Red,Quinta do Castelinho,2014
+9671,90,100.0,Alentejano,Magnum Vinhos 2012 Maria Mora Enamorada Red (Alentejano),Portuguese Red,Magnum Vinhos,2012
+60312,86,15.0,Douro,Casa de Cambres 2014 Reserva Red (Douro),Portuguese Red,Casa de Cambres,2014
+52342,88,16.0,Alentejano,Dona Maria-Júlio Bastos 2014 Viognier (Alentejano),Viognier,Dona Maria-Júlio Bastos,2014
+20566,91,19.0,Portuguese Table Wine,Ribafreixo 2012 Connections Limited Edition Chenin Blanc (Portuguese Table Wine),Chenin Blanc,Ribafreixo,2012
+15728,91,28.0,Alentejano,Herdade do Esporão 2015 Private Selection Branco Sémillon (Alentejano),Sémillon,Herdade do Esporão,2015
+120862,91,25.0,Douro,Prats & Symington LDA 2012 Post Scriptum de Chryseia Red (Douro),Portuguese Red,Prats & Symington LDA,2012
+36902,88,12.0,Dão,Global Wines 2014 Casa de Santar Red (Dão),Portuguese Red,Global Wines,2014
+91635,92,23.0,Douro,Quinta do Pôpa 2015 Pôpa Black Edition Branco White (Douro),Portuguese White,Quinta do Pôpa,2015
+36324,87,20.0,Vinho Verde,Wines & Winemakers 2014 Toucas Alvarinho (Vinho Verde),Alvarinho,Wines & Winemakers,2014
+11029,86,12.0,Tejo,Wines & Winemakers 2013 Herdade de Catapereiro White (Tejo),Portuguese White,Wines & Winemakers,2013
+4212,87,12.0,Lisboa,Quinta de Chocapalha 2015 Arinto (Lisboa),Arinto,Quinta de Chocapalha,2015
+91393,88,23.0,Douro,Quinta do Vallado 2016 Vallado Branco White (Douro),Portuguese White,Quinta do Vallado,2016
+14005,88,18.0,Minho,Quinta da Calçada 2015 Calçada Terroir Alvarinho (Minho),Alvarinho,Quinta da Calçada,2015
+6226,85,10.0,Lisboa,DFJ Vinhos 2014 Brigando Red (Lisboa),Portuguese Red,DFJ Vinhos,2014
+125963,90,27.0,Tejo,Quinta da Lapa 2012 Reserva Red (Tejo),Portuguese Red,Quinta da Lapa,2012
+112338,92,20.0,Alentejano,Casa Agricola Alexandre Relvas 2015 Herdade de São Miguel Alicante Bouschet (Alentejano),Alicante Bouschet,Casa Agricola Alexandre Relvas,2015
+67446,94,59.0,Alentejo,Cartuxa 2012 Reserva Tinto Red (Alentejo),Portuguese Red,Cartuxa,2012
+114569,92,35.0,Vinho Verde,Quinta de Soalheiro 2014 Reserva Alvarinho (Vinho Verde),Alvarinho,Quinta de Soalheiro,2014
+76144,87,12.0,Tejo,Wines & Winemakers 2013 Companhia das Lezirias Catapereiro Rosé (Tejo),Rosé,Wines & Winemakers,2013
+108590,83,7.0,Vinho Verde,Caves Velhas 2015 Lagosta White (Vinho Verde),Portuguese White,Caves Velhas,2015
+51607,88,20.0,Lisboa,Casa Santos Lima 2015 Passion of Portugal Reserva Red (Lisboa),Portuguese Red,Casa Santos Lima,2015
+29938,85,18.0,Douro,Quinta Dona Matilde 2014 Tinto Red (Douro),Portuguese Red,Quinta Dona Matilde,2014
+62689,85,17.0,Vinho Verde,Quinta do Cruzeiro 2012 White (Vinho Verde),Portuguese White,Quinta do Cruzeiro,2012
+100754,88,15.0,Lisboa,Quinta de Chocapalha 2011 White (Lisboa),Portuguese White,Quinta de Chocapalha,2011
+78606,93,70.0,Douro,Quinta das Carvalhas 2014 Carvalhas Touriga Nacional (Douro),Touriga Nacional,Quinta das Carvalhas,2014
+73968,85,9.0,Alentejano,Global Wines 2016 Monte da Cal Colheita Seleccionada Branco White (Alentejano),Portuguese White,Global Wines,2016
+60672,86,10.0,Alentejano,Perescuma 2015 Terra Brava Red (Alentejano),Portuguese Red,Perescuma,2015
+113340,82,12.0,Douro,Wines & Winemakers 2015 Meia Lua Red (Douro),Portuguese Red,Wines & Winemakers,2015
+121580,89,20.0,Douro,Quinta da Padrela 2013 Reserva Red (Douro),Portuguese Red,Quinta da Padrela,2013
+22767,90,19.0,Douro,Casca Wines 2011 Santos da Casa Reserva Red (Douro),Portuguese Red,Casca Wines,2011
+80021,90,16.0,Dão,Sogrape 2010 Callabriga Red (Dão),Portuguese Red,Sogrape,2010
+48850,90,30.0,Bairrada,Campolargo 2015 Branco Bical (Bairrada),Bical,Campolargo,2015
+124679,92,35.0,Duriense,Quinta do Crasto 2013 Superior Syrah (Duriense),Syrah,Quinta do Crasto,2013
+1619,85,8.0,Alentejo,Adega Cooperativa de Borba 2016 Adega de Borba Branco White (Alentejo),Portuguese White,Adega Cooperativa de Borba,2016
+32103,89,45.0,Duriense,Quinta da Romaneira 2012 Syrah (Duriense),Syrah,Quinta da Romaneira,2012
+115216,91,18.0,Palmela,Wines & Winemakers 2013 Pegos Claros Reserva Castelão (Palmela),Castelão,Wines & Winemakers,2013
+34936,91,19.0,Lisboa,DFJ Vinhos 2013 Consensus Pinot Noir-Touriga Nacional Red (Lisboa),Portuguese Red,DFJ Vinhos,2013
+28669,85,9.0,Lisboa,DFJ Vinhos 2015 Bigode Tinto Red (Lisboa),Portuguese Red,DFJ Vinhos,2015
+26811,90,25.0,Dão,Quinta de Lemos 2010 Dona Santana Red (Dão),Portuguese Red,Quinta de Lemos,2010
+123892,91,20.0,Douro,Quinta das Carvalhas 2013 Touriga Nacional (Douro),Touriga Nacional,Quinta das Carvalhas,2013
+77960,90,10.0,Tejo,Pinhal da Torre 2013 Quinta do Alqueve Tradicional White (Tejo),Portuguese White,Pinhal da Torre,2013
+66269,88,16.0,Península de Setúbal,José Maria da Fonseca 2011 Periquita Reserva Red (Península de Setúbal),Portuguese Red,José Maria da Fonseca,2011
+14747,90,24.0,Dão,Quinta das Marias 2015 Alfrocheiro (Dão),Alfrocheiro,Quinta das Marias,2015
+36873,87,10.0,Tejo,Quinta da Alorna 2016 Alvarinho (Tejo),Alvarinho,Quinta da Alorna,2016
+128399,84,15.0,Tejo,Wine with Spirit 2013 Bastardô! White (Tejo),Portuguese White,Wine with Spirit,2013
+5431,88,12.0,Bairrada,Wines & Winemakers 2012 Azul Portugal Red (Bairrada),Portuguese Red,Wines & Winemakers,2012
+124699,92,40.0,Lisboa,Quinta de Chocapalha 2012 CH by Chocapalha Red (Lisboa),Portuguese Red,Quinta de Chocapalha,2012
+15797,94,99.0,Douro,Lemos & Van Zeller 2012 CV Curriculum Vitae Red (Douro),Portuguese Red,Lemos & Van Zeller,2012
+23059,91,50.0,Douro,Muxagat 2010 Cisne Red (Douro),Portuguese Red,Muxagat,2010
+34629,91,7.0,Alentejano,Herdade dos Machados 2012 Toutalga Red (Alentejano),Portuguese Red,Herdade dos Machados,2012
+129671,93,60.0,Dão,Quinta de Lemos 2010 Dona Georgina Red (Dão),Portuguese Red,Quinta de Lemos,2010
+35527,87,48.0,Douro,Quinta do Pôpa 2011 Pôpa Vinhas Velhas Red (Douro),Portuguese Red,Quinta do Pôpa,2011
+4561,85,8.0,Douro,Jose Maria Vieira 2014 Borges Quinta da Soalheira Red (Douro),Portuguese Red,Jose Maria Vieira,2014
+104591,85,9.0,Vinho Verde,Adega Cooperativa Ponte de Barca 2013 Las Lilas White (Vinho Verde),Portuguese White,Adega Cooperativa Ponte de Barca,2013
+47100,85,13.0,Douro,Vinihold 2015 Altimo Red (Douro),Portuguese Red,Vinihold,2015
+75569,88,14.0,Alentejano,Herdade do Esporão 2015 Esporão Colheita Red (Alentejano),Portuguese Red,Herdade do Esporão,2015
+67221,90,14.0,Vinho Verde,Anselmo Mendes 2012 Muros Antigos White (Vinho Verde),Portuguese White,Anselmo Mendes,2012
+102688,90,18.0,Douro,Casa Ferreirinha 2012 Vinha Grande Branco White (Douro),Portuguese White,Casa Ferreirinha,2012
+79726,89,18.0,Minho,Quinta da Calçada 2013 Edição Terroir White (Minho),Portuguese White,Quinta da Calçada,2013
+103684,90,13.0,Douro,Quinta de Porrais 2012 Sete Vales Red (Douro),Portuguese Red,Quinta de Porrais,2012
+34315,84,10.0,Lisboa,Casa Santos Lima 2015 Bonavita White (Lisboa),Portuguese White,Casa Santos Lima,2015
+112703,86,12.0,Tejo,Quinta da Alorna 2010 Arinto (Tejo),Arinto,Quinta da Alorna,2010
+57544,89,30.0,Port,Duorum 2014 Late Bottled Vintage  (Port),Port,Duorum,2014
+86860,84,10.0,Alentejano,Terras de Alter 2014 Terra d'Alter Rosé (Alentejano),Rosé,Terras de Alter,2014
+48089,88,8.0,Vinho Verde,Dão Sul 2011 Quinta de Lourosa White (Vinho Verde),Portuguese White,Dão Sul,2011
+4579,85,10.0,Lisboa,DFJ Vinhos 2013 Paxis Pinot Noir (Lisboa),Pinot Noir,DFJ Vinhos,2013
+111693,91,19.0,Douro,Manuel Carvalho Martins 2015 Golpe Red (Douro),Portuguese Red,Manuel Carvalho Martins,2015
+109850,96,105.0,Port,Quinta do Noval 2014 Vintage  (Port),Port,Quinta do Noval,2014
+98823,91,45.0,Douro,Conceito Vinhos 2016 Conceito Branco White (Douro),Portuguese White,Conceito Vinhos,2016
+17743,94,55.0,Beira Interior,Companhia das Quintas 2010 Quinta do Cardo Grande Escolha Red (Beira Interior),Portuguese Red,Companhia das Quintas,2010
+50266,91,55.0,Península de Setúbal,Lobo 2014 Selecção Cabernet Sauvignon-Touriga Nacional Red (Península de Setúbal),Portuguese Red,Lobo,2014
+115950,93,35.0,Alentejano,Herdade dos Grous 2014 Moon Harvested Alicante Bouschet (Alentejano),Alicante Bouschet,Herdade dos Grous,2014
+126330,87,12.0,Vinho Verde,Wines & Winemakers 2016 Toucas White (Vinho Verde),Portuguese White,Wines & Winemakers,2016
+76402,94,40.0,Alentejano,Fitapreta Vinhos 2012 Palpite Grande Reserva Red (Alentejano),Portuguese Red,Fitapreta Vinhos,2012
+7063,84,23.0,Tejo,Wines & Winemakers 2014 Companhia das Lezírias Tyto Alba Vinhas Protegidas Sauvignon Blanc (Tejo),Sauvignon Blanc,Wines & Winemakers,2014
+99075,92,25.0,Douro,Quinta da Rede 2013 Grande Reserva White (Douro),Portuguese White,Quinta da Rede,2013
+8862,95,100.0,Douro,Quinta do Vale Meão 2014 Red (Douro),Portuguese Red,Quinta do Vale Meão,2014
+102389,86,8.0,Dão,Dão Sul 2011 Cabriz Colheita Seleccionada Red (Dão),Portuguese Red,Dão Sul,2011
+9203,86,9.0,Tejo,Falua 2010 Conde de Vimioso Colheita Seleccionada White (Tejo),Portuguese White,Falua,2010
+41364,86,13.0,Douro,Quinta do Portal 2015 Tinta Barroca (Douro),Tinta Barroca,Quinta do Portal,2015
+112125,86,15.0,Lisboa,DFJ Vinhos 2014 Aluado Alvarinho (Lisboa),Alvarinho,DFJ Vinhos,2014
+26856,90,58.0,Port,Duorum 2013 Vinha de Castelo Melhor Vintage  (Port),Port,Duorum,2013
+16068,87,8.0,Península de Setúbal,Lobo 2014 Lobocellar Red (Península de Setúbal),Portuguese Red,Lobo,2014
+84967,86,11.0,Península de Setúbal,Wines & Winemakers 2013 Casa Ermelinda Freitas Monte de Baía Branco White (Península de Setúbal),Portuguese White,Wines & Winemakers,2013
+18443,92,110.0,Alentejano,Cortes de Cima 2012 Reserva Red (Alentejano),Portuguese Red,Cortes de Cima,2012
+44441,90,15.0,Douro,Manuel Carvalho Martins 2014 Golpe Branco White (Douro),Portuguese White,Manuel Carvalho Martins,2014
+124730,90,15.0,Alentejo,Adega Cooperativa de Borba 2014 Premium Red (Alentejo),Portuguese Red,Adega Cooperativa de Borba,2014
+27074,94,70.0,Douro,Quinta de la Rosa 2014 Vale do Inferno Reserva Red (Douro),Portuguese Red,Quinta de la Rosa,2014
+96670,87,15.0,Minho,Casca Wines 2012 Cape Roca Fish Alvarinho (Minho),Alvarinho,Casca Wines,2012
+81874,89,28.0,Alentejano,Casca Wines 2010 Monte Cascas Reserva Red (Alentejano),Portuguese Red,Casca Wines,2010
+68076,91,30.0,Alentejo,Cartuxa 2013 Foral de Evora Branco Colheita White (Alentejo),Portuguese White,Cartuxa,2013
+99710,86,20.0,Port,Delaforce 2010 Late Bottled Vintage  (Port),Port,Delaforce,2010
+114723,93,40.0,Tejo,Rui Reguinga 2015 Tributo Red (Tejo),Rhône-style Red Blend,Rui Reguinga,2015
+9948,87,15.0,Alentejano,Herdade de São Miguel 2012 Atlântico Gold Label Reserva Red (Alentejano),Portuguese Red,Herdade de São Miguel,2012
+15260,93,47.0,Alentejo,Monte da Capela 2013 15 Anos Reserva Red (Alentejo),Portuguese Red,Monte da Capela,2013
+2384,87,10.0,Terras do Dão,Caves Velhas 2014 D. Fuas Reserva Red (Terras do Dão),Portuguese Red,Caves Velhas,2014
+112995,86,15.0,Douro,Quinta do Passadouro 2014 Passa White (Douro),Portuguese White,Quinta do Passadouro,2014
+54736,92,30.0,Alentejano,Herdade de São Miguel 2012 Reserva Red (Alentejano),Portuguese Red,Herdade de São Miguel,2012
+66732,85,13.0,Tejo,Adega Cooperativa do Cartaxo 2011 Coudel Mor Reserva Red (Tejo),Portuguese Red,Adega Cooperativa do Cartaxo,2011
+77913,85,8.0,Bairrada,Messias 2013 Messias Selection Red (Bairrada),Portuguese Red,Messias,2013
+44124,90,19.0,Vinho Verde,Quinta de Santiago 2012 Alvarinho (Vinho Verde),Alvarinho,Quinta de Santiago,2012
+58676,89,12.0,Vinho Verde,Casa de Vilacetinho 2015 Loureiro (Vinho Verde),Loureiro,Casa de Vilacetinho,2015
+34938,91,16.0,Douro,Quinta do Sagrado 2013 Tinto Red (Douro),Portuguese Red,Quinta do Sagrado,2013
+107870,93,99.0,Douro,Wine & Soul 2014 Pintas Red (Douro),Portuguese Red,Wine & Soul,2014
+75057,85,9.0,Vinho Verde,Aveleda 2013 White (Vinho Verde),Portuguese White,Aveleda,2013
+15483,90,15.0,Tejo,Quinta da Alorna 2015 Arinto-Chardonnay Reserva White (Tejo),Portuguese White,Quinta da Alorna,2015
+129428,89,15.0,Alentejano,Monte da Ravasqueira 2016 Superior Red (Alentejano),Portuguese Red,Monte da Ravasqueira,2016
+43029,87,19.0,Lisboa,Adega Mãe 2014 White (Lisboa),Viosinho,Adega Mãe,2014
+10994,90,20.0,Alentejano,Casa Agricola Alexandre Relvas 2015 Herdade de São Miguel Touriga Nacional (Alentejano),Touriga Nacional,Casa Agricola Alexandre Relvas,2015
+39004,85,7.0,Vinho Verde,Global Wines 2015 Xadrez White (Vinho Verde),Portuguese White,Global Wines,2015
+3950,83,5.0,Vinho Verde,Adega Cooperativa Ponte de Barca 2010 Escolha Rosé (Vinho Verde),Rosé,Adega Cooperativa Ponte de Barca,2010
+23698,87,16.0,Alentejo,Herdade do Esporão 2016 T Trincadeira (Alentejo),Trincadeira,Herdade do Esporão,2016
+9575,86,18.0,Douro,Wines & Winemakers 2013 Andreza Branco White (Douro),Portuguese White,Wines & Winemakers,2013
+82224,87,12.0,Douro,Poças 2012 Coroa d'Ouro White (Douro),Portuguese White,Poças,2012
+34431,89,30.0,Port,Poças 2012 Late Bottled Vintage  (Port),Port,Poças,2012
+113292,85,10.0,Lisboa,DFJ Vinhos 2015 Casa do Lago Branco White (Lisboa),Portuguese White,DFJ Vinhos,2015
+32589,87,15.0,Vinho Verde,Quintas de Melgaço 2013 Lagar Alvarinho (Vinho Verde),Alvarinho,Quintas de Melgaço,2013
+87229,86,14.0,Tejo,Fiuza 2014 Merlot (Tejo),Merlot,Fiuza,2014
+49691,86,9.0,Alentejano,Monte da Ravasqueira 2016 Guarda Rios Tinto Red (Alentejano),Portuguese Red,Monte da Ravasqueira,2016
+54279,88,34.0,Douro,Quinta da Romaneira 2010 Touriga Nacional (Douro),Touriga Nacional,Quinta da Romaneira,2010
+55647,93,25.0,Alentejano,Luis Duarte 2015 Rapariga da Quinta Reserva Red (Alentejano),Portuguese Red,Luis Duarte,2015
+85204,90,12.0,Dão,Caves Velhas 2013 Catedral Red (Dão),Portuguese Red,Caves Velhas,2013
+1185,88,19.0,Alentejo,Casa Agricola Santos Jorge 2012 Herdade dos Machados Reserva Red (Alentejo),Portuguese Red,Casa Agricola Santos Jorge,2012
+6103,87,13.0,Douro,Casca Wines 2014 Monte Cascas Branco White (Douro),Portuguese White,Casca Wines,2014
+47101,85,15.0,Tejo,Wines & Winemakers 2015 Companhia das Lezirias Herdade de Catapereiro Escolha White (Tejo),Portuguese White,Wines & Winemakers,2015
+106279,86,8.0,Dão,Global Wines 2015 Cabriz Colheita Seleccionada Branco White (Dão),Portuguese White,Global Wines,2015
+1801,85,10.0,Tejo,Quinta do Casal Branco 2014 Terra de Lobos Tinto Red (Tejo),Portuguese Red,Quinta do Casal Branco,2014
+37048,85,10.0,Tejo,Quinta do Casal Branco 2010 Quartilho Red (Tejo),Portuguese Red,Quinta do Casal Branco,2010
+103654,93,50.0,Port,Royal Oporto 2011 Quinta das Carvalhas Vintage  (Port),Port,Royal Oporto,2011
+107832,88,10.0,Tejo,Quinta do Casal Branco 2014 Capoeira Tinto Red (Tejo),Portuguese Red,Quinta do Casal Branco,2014
+12761,85,9.0,Vinho Verde,Vinhos Norte 2010 Cruzeiro Branco White (Vinho Verde),Portuguese White,Vinhos Norte,2010
+70177,89,54.0,Bairrada,Campolargo 2011 Branco Cerceal (Bairrada),Cerceal,Campolargo,2011
+75285,84,13.0,Tejo,Quinta do Casal Branco 2016 Terra de Lobos Branco White (Tejo),Portuguese White,Quinta do Casal Branco,2016
+87700,86,17.0,Douro,Van Zellers 2015 Rufo do Vale D. Maria Branco White (Douro),Portuguese White,Van Zellers,2015
+46029,88,15.0,Alentejano,Casa Santos Lima 2015 Valcatrina by Santos Lima Red (Alentejano),Portuguese Red,Casa Santos Lima,2015
+5832,88,18.0,Douro,Poças 2016 Coroa d'Ouro Branco White (Douro),Portuguese White,Poças,2016
+61240,85,7.0,Tejo,Fiuza 2013 Native Touriga Nacional-Cabernet Sauvignon (Tejo),Touriga Nacional-Cabernet Sauvignon,Fiuza,2013
+94538,91,20.0,Alentejo,Companhia das Quintas 2014 Portas da Herdade Reserva Red (Alentejo),Portuguese Red,Companhia das Quintas,2014
+35262,82,9.0,Lisboa,Adega Mãe 2014 Pinta Negra Red (Lisboa),Portuguese Red,Adega Mãe,2014
+63897,88,15.0,Douro,Santos & Seixo 2014 Santos da Casa Tinto Red (Douro),Portuguese Red,Santos & Seixo,2014
+50350,92,40.0,Douro,CARM 2013 Grande Reserva Red (Douro),Portuguese Red,CARM,2013
+8629,86,12.0,Alentejano,J. Portugal Ramos 2016 Pouca Roupa Red (Alentejano),Portuguese Red,J. Portugal Ramos,2016
+4905,91,40.0,Alentejano,Fitapreta Vinhos 2013 Palpite Reserva Branco White (Alentejano),Portuguese White,Fitapreta Vinhos,2013
+128736,90,26.0,Port,Offley 2012 Late Bottled Vintage  (Port),Port,Offley,2012
+12703,84,13.0,Tejo,Casal da Coelheira 2010 Terraços do Tejo Red (Tejo),Portuguese Red,Casal da Coelheira,2010
+81942,92,20.0,Lisboa,Adega Mãe 2015 Dory Reserva White (Lisboa),Portuguese White,Adega Mãe,2015
+64524,85,8.0,Alentejano,Herdade do Esporão 2011 Alandra Branco White (Alentejano),Portuguese White,Herdade do Esporão,2011
+108636,81,10.0,Tejo,Casal da Coelheira 2012 Rosé (Tejo),Rosé,Casal da Coelheira,2012
+48992,89,15.0,Lisboa,Quinta de Sant'Ana 2013 Tinto Red (Lisboa),Portuguese Red,Quinta de Sant'Ana,2013
+34733,92,15.0,Douro,Quinta de Porrais 2010 Parcelas Red (Douro),Portuguese Red,Quinta de Porrais,2010
+87575,85,13.0,Alentejano,J. Portugal Ramos 2015 Pouca Roupa Rosé (Alentejano),Rosé,J. Portugal Ramos,2015
+22042,86,10.0,Vinho Verde,Casca Wines 2016 Bote Branco White (Vinho Verde),Portuguese White,Casca Wines,2016
+61390,91,28.0,Port,Quinta de la Rosa 2012 Late Bottled Vintage  (Port),Port,Quinta de la Rosa,2012
+121440,90,32.0,Dão,Quinta de Lemos 2010 Tinta Roriz (Dão),Tinta Roriz,Quinta de Lemos,2010
+101951,88,16.0,Tejo,Casal da Coelheira 2011 Reserva Red (Tejo),Portuguese Red,Casal da Coelheira,2011
+5834,88,12.0,Douro,Quinta do Pôpa 2015 Contos da Terra Red (Douro),Portuguese Red,Quinta do Pôpa,2015
+48152,91,16.0,Douro,Quanta Terra 2014 Grande Reserva Branco White (Douro),Portuguese White,Quanta Terra,2014
