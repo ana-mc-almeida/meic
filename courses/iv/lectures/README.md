@@ -9,3 +9,4 @@ I also downloaded them and put them in my driver, so you can find them in the [l
 - [Lecture 3](https://drive.google.com/file/d/1pNF77AZzHp2MEzfwTf6KrQ6iu5E77HAt/view?usp=drive_link)
   - [Match game](https://bit.ly/3qA6oki) and [statistics](https://web.ist.utl.pt/ist13898/MatchGame/stats.html)
 - [Lecture 4](https://drive.google.com/file/d/1EiSlA6561RHbFCThMhOVPW2vF4_P3A4a/view?usp=drive_link)
+- [Lecture 5](https://drive.google.com/file/d/1Jav8BtLD_CmClGLVmkKYhyRjpKIJb_Ds/view?usp=drive_link)
