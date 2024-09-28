@@ -6,6 +6,7 @@
   - [Tema escolhido](#tema-escolhido)
 - [Possíveis datasets](#possíveis-datasets)
 - [Possíveis perguntas](#possíveis-perguntas)
+- [Possíveis visualizações](#possíveis-visualizações)
 
 ## Possíveis temas
 
@@ -35,3 +36,28 @@ House prices in Portugal
 - Preço vs condição da propriedade
 - àrea vs localização
 - Quartos vs localização
+
+## Possíveis visualizações
+
+- Mapa de calor
+- Sankey Diagram
+  - É mais caro comprar ou alugar?
+
+
+1. What is the average area of houses in Porto?
+  - Heatmap
+2. What is the relationship between the number of bedrooms and the average price per square meter of houses in Lisbon?
+  - 
+3. Is it more cost-effective to buy a new house or a renovated house?
+  - Sankey Diagram
+4. Is it more expensive to buy a house or to rent?
+  - Sankey Diagram
+5. What is the ranking of cities based on the average price per square meter for rental houses?
+  - Heatmap
+6. Where am I most likely to find my ideal home knowing that I need at least three bedrooms and two bathrooms, and I can spend a maximum of half a million euros?
+  - Heatmap
+  - Sankey Diagram
+
+Cleveland dot plot aka loolipop chart
+
+Sankey Diagram aka Parallel Sets
