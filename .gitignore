@@ -1,2 +1,3 @@
 .vscode/
 courses/iv/project/venv/*
+venv/*
