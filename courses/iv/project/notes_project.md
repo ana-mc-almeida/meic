@@ -7,6 +7,7 @@
 - [Possíveis datasets](#possíveis-datasets)
 - [Possíveis perguntas](#possíveis-perguntas)
 - [Possíveis visualizações](#possíveis-visualizações)
+- [Repos From Other Students](#repos-from-other-students)
 
 ## Possíveis temas
 
@@ -61,3 +62,8 @@ House prices in Portugal
 Cleveland dot plot aka loolipop chart
 
 Sankey Diagram aka Parallel Sets
+
+## Repos From Other Students
+
+- [2023/2024](https://github.com/antoniovitorvb/IST-Information-Visualization-project/tree/main)
+- [2021/2022](https://github.com/filipesousaist/vi_proj/tree/main)
