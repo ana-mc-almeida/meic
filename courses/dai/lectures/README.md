@@ -13,3 +13,10 @@ Number | Topic | Week | Link |
 5 | ETL Tools Intro | 2 | [Link](https://drive.google.com/file/d/1L3Kw8VWPwOW4IRDeGdeASz7JO6TTyByS/view?usp=drive_link) |
 6 | ETL Tools Queries | 2 | [Link](https://drive.google.com/file/d/1jjZSbMebi_Dc1O5aZlkBOThKh_35y2oR/view?usp=drive_link) |
 7 | String Matching | 2 | [Link](https://drive.google.com/file/d/1jQn_GfbTx9vAu0w0fAbQ5IlelZeal80_/view?usp=drive_link) |
+8 | Duplicate Detection | 3 | [Link](https://drive.google.com/file/d/1JFG8JwHqZ4q_yMBFRZ6JEcx5x31OXOVY/view?usp=drive_link) |
+9 | Data Profiling | 3 | [Link](https://drive.google.com/file/d/12wdlyP0LMCFIGSm0JXpWDOj73O6j5jlx/view?usp=drive_link)
+10 | Data Warehousing | 3 | [Link](https://drive.google.com/file/d/1VcvojG5VVzKxUd_pX3WyZibmnZ0wNISO/view?usp=drive_link) |
+11 | DW Design | 4 | [Link](https://drive.google.com/file/d/1zhW4V7Du4icwrqDRUZL5_jWkADsjhyBX/view?usp=drive_link)
+12 | OLAP Operations | 4 | [Link](https://drive.google.com/file/d/1t6Csp33MFEsVIQZ1qbWmfIr8z1iTO59Y/view?usp=drive_link) |
+13 | OLAP Cube | 5 | [Link](https://drive.google.com/file/d/1gkLX56oqC0N07ojZMjiFeJW9TJUGmzGs/view?usp=drive_link) |
+14 | SCDs | 5 | [Link](https://drive.google.com/file/d/1l9bbkgeiE8K2mFZPdWH6QjbdXtDf5yrL/view?usp=drive_link) |
