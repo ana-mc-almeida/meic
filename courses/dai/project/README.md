@@ -2,4 +2,4 @@
 
 > Due to October 25th
 
-The project instructions can be found [here](https://drive.google.com/file/d/1q05Vzn3tE3BMpDCmIulA26fZ93GmZAEC/view?usp=drive_link)
+The project instructions can be found [here](https://drive.google.com/file/d/1HteaGaVGZPH-HF0impW43YYDIuIt4Wvg/view?usp=drive_link)
