@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<job xmlns="http://eobjects.org/analyzerbeans/job/1.0">
+    <job-metadata>
+        <job-description>Created with DataCleaner Community edition 5.8.1</job-description>
+        <author>aid</author>
+        <updated-date>2024-10-07+01:00</updated-date>
+        <metadata-properties>
+            <property name="CoordinatesX.lab7.ordertotals.csv">205</property>
+            <property name="CoordinatesY.lab7.ordertotals.csv">133</property>
+        </metadata-properties>
+    </job-metadata>
+    <source>
+        <data-context ref="ordertotals"/>
+        <columns>
+            <column id="col_ordernumber" path="ORDERNUMBER" type="STRING"/>
+            <column id="col_lines" path="lines" type="STRING"/>
+            <column id="col_totalquantity" path="totalQuantity" type="STRING"/>
+            <column id="col_totalprice" path="totalPrice" type="STRING"/>
+        </columns>
+    </source>
+    <transformation>
+        <transformer>
+            <descriptor ref="Convert to number"/>
+            <metadata-properties>
+                <property name="CoordinatesY">135</property>
+                <property name="CoordinatesX">374</property>
+            </metadata-properties>
+            <properties>
+                <property name="Decimal separator" value="."/>
+                <property name="Minus sign" value="-"/>
+                <property name="Null replacement" value="&lt;null&gt;"/>
+                <property name="Thousand separator" value="&amp;#44;"/>
+            </properties>
+            <input ref="col_ordernumber"/>
+            <input ref="col_lines"/>
+            <input ref="col_totalquantity"/>
+            <input ref="col_totalprice"/>
+            <output id="col_ordernumberasnumber" name="ORDERNUMBER (as number)"/>
+            <output id="col_linesasnumber" name="lines (as number)"/>
+            <output id="col_totalquantityasnumber" name="totalQuantity (as number)"/>
+            <output id="col_totalpriceasnumber" name="totalPrice (as number)"/>
+        </transformer>
+    </transformation>
+    <analysis>
+        <analyzer>
+            <descriptor ref="Number analyzer"/>
+            <metadata-properties>
+                <property name="CoordinatesY">306</property>
+                <property name="CoordinatesX">315</property>
+            </metadata-properties>
+            <properties>
+                <property name="Descriptive statistics" value="false"/>
+            </properties>
+            <input ref="col_linesasnumber"/>
+            <input ref="col_totalquantityasnumber"/>
+            <input ref="col_totalpriceasnumber"/>
+        </analyzer>
+        <analyzer>
+            <descriptor ref="Scatter plot"/>
+            <metadata-properties>
+                <property name="CoordinatesY">300</property>
+                <property name="CoordinatesX">583</property>
+            </metadata-properties>
+            <properties/>
+            <input ref="col_totalquantityasnumber" name="Variable1"/>
+            <input ref="col_totalpriceasnumber" name="Variable2"/>
+        </analyzer>
+    </analysis>
+</job>

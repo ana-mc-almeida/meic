@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<job xmlns="http://eobjects.org/analyzerbeans/job/1.0">
+    <job-metadata>
+        <job-description>Created with DataCleaner Community edition 5.8.1</job-description>
+        <author>aid</author>
+        <updated-date>2024-10-07+01:00</updated-date>
+        <metadata-properties>
+            <property name="CoordinatesX.steelwheels.customers">311</property>
+            <property name="CoordinatesY.steelwheels.customers">183</property>
+        </metadata-properties>
+    </job-metadata>
+    <source>
+        <data-context ref="steelwheels"/>
+        <columns>
+            <column id="col_customernumber" path="steelwheels.customers.CUSTOMERNUMBER" type="INTEGER"/>
+            <column id="col_customername" path="steelwheels.customers.CUSTOMERNAME" type="VARCHAR"/>
+            <column id="col_contactlastname" path="steelwheels.customers.CONTACTLASTNAME" type="VARCHAR"/>
+            <column id="col_contactfirstname" path="steelwheels.customers.CONTACTFIRSTNAME" type="VARCHAR"/>
+            <column id="col_phone" path="steelwheels.customers.PHONE" type="VARCHAR"/>
+            <column id="col_addressline1" path="steelwheels.customers.ADDRESSLINE1" type="VARCHAR"/>
+            <column id="col_addressline2" path="steelwheels.customers.ADDRESSLINE2" type="VARCHAR"/>
+            <column id="col_city" path="steelwheels.customers.CITY" type="VARCHAR"/>
+            <column id="col_state" path="steelwheels.customers.STATE" type="VARCHAR"/>
+            <column id="col_postalcode" path="steelwheels.customers.POSTALCODE" type="VARCHAR"/>
+            <column id="col_country" path="steelwheels.customers.COUNTRY" type="VARCHAR"/>
+            <column id="col_salesrepemployeenumber" path="steelwheels.customers.SALESREPEMPLOYEENUMBER" type="INTEGER"/>
+            <column id="col_creditlimit" path="steelwheels.customers.CREDITLIMIT" type="DECIMAL"/>
+        </columns>
+    </source>
+    <transformation/>
+    <analysis>
+        <analyzer>
+            <descriptor ref="Completeness analyzer"/>
+            <metadata-properties>
+                <property name="CoordinatesY">47</property>
+                <property name="CoordinatesX">478</property>
+            </metadata-properties>
+            <properties>
+                <property name="Conditions" value="[NOT_BLANK_OR_NULL,NOT_BLANK_OR_NULL,NOT_BLANK_OR_NULL,NOT_BLANK_OR_NULL,NOT_BLANK_OR_NULL,NOT_BLANK_OR_NULL,NOT_BLANK_OR_NULL,NOT_BLANK_OR_NULL,NOT_BLANK_OR_NULL,NOT_BLANK_OR_NULL,NOT_BLANK_OR_NULL,NOT_BLANK_OR_NULL,NOT_BLANK_OR_NULL]"/>
+                <property name="Evaluation mode" value="ANY_FIELD"/>
+            </properties>
+            <input ref="col_customernumber" name="Values"/>
+            <input ref="col_customername" name="Values"/>
+            <input ref="col_contactlastname" name="Values"/>
+            <input ref="col_contactfirstname" name="Values"/>
+            <input ref="col_phone" name="Values"/>
+            <input ref="col_addressline1" name="Values"/>
+            <input ref="col_addressline2" name="Values"/>
+            <input ref="col_city" name="Values"/>
+            <input ref="col_state" name="Values"/>
+            <input ref="col_postalcode" name="Values"/>
+            <input ref="col_country" name="Values"/>
+            <input ref="col_salesrepemployeenumber" name="Values"/>
+            <input ref="col_creditlimit" name="Values"/>
+        </analyzer>
+        <analyzer>
+            <descriptor ref="Referential integrity"/>
+            <metadata-properties>
+                <property name="CoordinatesY">113</property>
+                <property name="CoordinatesX">527</property>
+            </metadata-properties>
+            <properties>
+                <property name="Datastore" value="steelwheels"/>
+                <property name="Schema name" value="steelwheels"/>
+                <property name="Table name" value="employees"/>
+                <property name="Column name" value="EMPLOYEENUMBER"/>
+                <property name="Cache lookups" value="true"/>
+                <property name="Ignore null values" value="true"/>
+            </properties>
+            <input ref="col_salesrepemployeenumber"/>
+        </analyzer>
+        <analyzer>
+            <descriptor ref="String analyzer"/>
+            <metadata-properties>
+                <property name="CoordinatesY">173</property>
+                <property name="CoordinatesX">527</property>
+            </metadata-properties>
+            <properties/>
+            <input ref="col_customername"/>
+            <input ref="col_contactlastname"/>
+            <input ref="col_contactfirstname"/>
+            <input ref="col_phone"/>
+            <input ref="col_addressline1"/>
+            <input ref="col_addressline2"/>
+            <input ref="col_city"/>
+            <input ref="col_state"/>
+            <input ref="col_postalcode"/>
+            <input ref="col_country"/>
+        </analyzer>
+        <analyzer>
+            <descriptor ref="Value distribution"/>
+            <metadata-properties>
+                <property name="CoordinatesY">300</property>
+                <property name="CoordinatesX">419</property>
+            </metadata-properties>
+            <properties>
+                <property name="Record unique values" value="true"/>
+                <property name="Record drill-down information" value="true"/>
+                <property name="Top n most frequent values" value="&lt;null&gt;"/>
+                <property name="Bottom n most frequent values" value="&lt;null&gt;"/>
+            </properties>
+            <input ref="col_country" name="Column"/>
+        </analyzer>
+    </analysis>
+</job>

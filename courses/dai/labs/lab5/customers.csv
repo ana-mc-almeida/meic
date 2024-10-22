@@ -1,0 +1,90 @@
+customer_id,first_name,last_name,address,city,country
+103,Carine,Schmitt,"54, rue Royale",Nantes,France
+119,Janine,Labrune,"67, rue des Cinquante Otages",Nantes,France
+121,Jonas,Bergulfsen,Erling Skakkes gate 78,Stavern,Norway
+125,Zbygniew,Piestrzeniewicz,ul. Filtrowa 68,Warszawa,Poland
+128,Roland,Keitel,Lyonerstr. 34,Frankfurt,Germany
+141,Diego,Freyre,"c/ Moralzarzal, 86",Madrid,Spain
+144,Christina,Berglund,Berguvsvägen 8,Luleå,Sweden
+145,Jytte,Petersen,Vinbæltet 34,Kobenhavn,Denmark
+146,Mary,Saveley,"2, rue du Commerce",Lyon,France
+167,Veysel,Oeztan,"Drammen 121, PR 744 Sentrum",Bergen,Norway
+169,Isabel,de Castro,Estrada da saúde n. 58,Lisboa,Portugal
+171,Martina,Rancé,"184, chaussée de Tournai",Lille,France
+172,Marie,Bertrand,"265, boulevard Charonne",Paris,France
+186,Matti,Karttunen,Keskuskatu 45,Helsinki,Finland
+187,Victoria,Ashworth,Fauntleroy Circus,Manchester,UK
+189,Dean,Cassidy,25 Maiden Lane,Dublin,Ireland
+201,Elizabeth,Devon,Berkeley Gardens 12  Brewery,Liverpool,UK
+209,Frédérique,Citeaux,"24, place Kléber",Strasbourg,France
+216,Eduardo,Saavedra,"Rambla de Cataluña, 23",Barcelona,Spain
+223,Horst,Kloss,Taucherstraße 10,Cunewalde,Germany
+227,Palle,Ibsen,Smagsloget 45,Århus,Denmark
+237,Alejandra,Camino,"Gran Vía, 1",Madrid,Spain
+240,Helen,Bennett,Garden House Crowther Way,Cowes,UK
+242,Annette,Roulet,1 rue Alsace-Lorraine,Toulouse,France
+247,Renate,Messner,Magazinweg 7,Frankfurt,Germany
+249,Paolo,Accorti,Via Monte Bianco 34,Torino,Italy
+250,Daniel,Da Cunha,27 rue du Colonel Pierre Avia,Paris,France
+256,Daniel,Tonini,"67, avenue de l'Europe",Versailles,France
+259,Henriette,Pfalzheim,Mehrheimerstr. 369,Köln,Germany
+273,Peter,Franken,Berliner Platz 43,München,Germany
+278,Giovanni,Rovelli,Via Ludovico il Moro 22,Bergamo,Italy
+293,Eduard,Pon,Rte des Arsenaux 41,Fribourg,Switzerland
+298,Michael,Holz,Grenzacherweg 237,Genève,Switzerland
+299,Jan,Klaeboe,"Drammensveien 126 A, PB 744 Sentrum",Oslo,Norway
+303,Bradley,Schuyler,Kingsfordweg 151,Amsterdam,Netherlands
+307,Maria,Anders,Obere Str. 57,Berlin,Germany
+311,Pirkko,Koskitalo,Torikatu 38,Oulu,Finland
+314,Catherine,Dewey,Rue Joseph-Bens 532,Bruxelles,Belgium
+324,Ann,Brown,35 King George,London,UK
+334,Kalle,Suominen,"Software Engineering Center, SEC Oy",Espoo,Finland
+335,Philip,Cramer,Maubelstr. 90,Brandenburg,Germany
+344,Jesus,Fernandez,"Merchants House, 27-30 Merchant's Quay",Madrid,Spain
+348,Patricia,McKenna,8 Johnstown Road,Cork,Ireland
+350,Laurence,Lebihan,"12, rue des Bouchers",Marseille,France
+353,Paul,Henriot,59 rue de l'Abbaye,Reims,France
+361,Karin,Josephs,Luisenstr. 48,Münster,Germany
+369,Manuel,Rodriguez,Jardim das Rosas 32,Lisboa,Portugal
+376,Yang,Wang,Hauptstr. 29,Bern,Switzerland
+381,Pascale,Cartrain,"Boulevard Tirou, 255",Charleroi,Belgium
+382,Georg,Pipps,Geislweg 14,Salzburg,Austria
+386,Maurizio,Moroni,Strada Provinciale 124,Reggio Emilia,Italy
+406,Dominique,Perrier,"25, rue Lauriston",Paris,France
+409,Rita,Müller,Adenauerallee 900,Stuttgart,Germany
+415,Michael,Donnermeyer,Hansastr. 15,Munich,Germany
+443,Alexander,Feuer,Heerstr. 22,Leipzig,Germany
+448,Maria,Larsson,Åkergatan 24,Bräcke,Sweden
+452,Roland,Mendel,Kirchgasse 6,Graz,Austria
+458,Martín,Sommer,"C/ Araquil, 67",Madrid,Spain
+459,Sven,Ottlieb,Walserweg 21,Aachen,Germany
+465,Carmen,Anton,"c/ Gobelas, 19-1 Urb. La Florida",Madrid,Spain
+473,Franco,Ricotti,via Alessandro Volta 16,Milan,Italy
+477,Hanna,Moos,Forsterstr. 57,Mannheim,Germany
+484,José Pedro,Bandeiras,"C/ Romero, 33",Sevilha,Spain
+489,Thomas,Hardy,120 Hanover Sq.,London,UK
+493,Zbygnev,Piestrzeniewicz,Filtrowa 68,Warsaw,Poland
+498,Diogo,Freire,calle Moralzarzal 86,Madrid,Spain
+501,Cristina,Bärlund,8 Berguvsvaegen,Luleaa,Sweden
+503,Gitte,Pedersen,34 Vinbältet,Copenhagen,Denmark
+504,Isabel,Castro,Estrada da saúde 58,Lisbon,Portugal
+507,Martine,Rance,184 Chaussée Tournai,Lille,France
+511,Danielle,Cunha,rue du Colonel Pierre Avia 27,Paris,France
+515,Daniel,Tonnini,avenue de l’Europe 67,Versailles,France
+519,Giovani,Roveli,22 via Ludovico il Moro,Bergamo,Italy
+522,Edouard,Ponn,Route des Arsenaux 41,Fribourg,Switzerland
+528,Braddley,Schuiler,Kingsfordweg 157,Amsterdam,Netherlands
+531,Patriccia,McKena,Johnstown Road 8,Cork,Ireland
+535,Manuel,Rodrigues,Jardim das Rosas n. 32,Lisboa,Portugal
+538,George,Pips,14 Geislweg,Salzburg,Austria
+541,Maurizzio,Moronni,124 Strada Provinciale,Reggio Emilia,Italy
+543,Michel,Donermeyer,Hansastrasse 15,Munich,Germany
+546,Aleksander,Feyer,Heerstrasse 22,Leipzig,Germany
+549,Maria,Larson,Aakergatan 24,Braecke,Sweden
+552,Rolland,Mendell,Kirchstrasse 6,Graz,Austria
+556,Jose Pedro,Banderas,"calle Romero, 33",Seville,Spain
+561,Zbygniev,Piestrzeniew,ulica Filtrowa 68,Warszawa,Poland
+568,Isabella,de Castro,Estrada da saúde 58,Lisboa,Portugal
+569,Edward,Pon,41 Rte des Arsenaux,Friburg,Switzerland
+573,Bradly,Schuler,Kingsford weg 51,Amsterdam,Netherlands
+576,Emanuel,Rodrigues,Jardim das Rosas 32,Lisbon,Portugal
