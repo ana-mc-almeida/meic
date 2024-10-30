@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "name": "✨ MEIC ✨",
+            "path": "../.."
+        },
+        {
+            "name": "Other Courses",
+            "path": ".."
+        },
+        {
+            "name": "Communication Skills in Computer Science and Engineering I",
+            "path": "."
+        }        
+    ],
+    "settings": {
+      "files.exclude":{
+        "cceic/":true,
+        "courses":true
+      },
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "name": "✨ MEIC ✨",
+            "path": "../.."
+        },
+        {
+            "name": "Other Courses",
+            "path": ".."
+        },
+        {
+            "name": "Information Visualization",
+            "path": "."
+        }        
+    ],
+    "settings": {
+      "files.exclude":{
+        "iv/":true,
+        "courses":true
+      },
+    }
+}

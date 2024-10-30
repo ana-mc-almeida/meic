@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "name": "✨ MEIC ✨",
+            "path": "../.."
+        },
+        {
+            "name": "Other Courses",
+            "path": ".."
+        },
+        {
+            "name": "Data Analysis and Integration",
+            "path": "."
+        }        
+    ],
+    "settings": {
+      "files.exclude":{
+        "dai/":true,
+        "courses":true
+      },
+    }
+}
