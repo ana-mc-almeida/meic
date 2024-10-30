@@ -20,3 +20,6 @@ Number | Topic | Week | Link |
 12 | OLAP Operations | 4 | [Link](https://drive.google.com/file/d/1t6Csp33MFEsVIQZ1qbWmfIr8z1iTO59Y/view?usp=drive_link) |
 13 | OLAP Cube | 5 | [Link](https://drive.google.com/file/d/1gkLX56oqC0N07ojZMjiFeJW9TJUGmzGs/view?usp=drive_link) |
 14 | SCDs | 5 | [Link](https://drive.google.com/file/d/1l9bbkgeiE8K2mFZPdWH6QjbdXtDf5yrL/view?usp=drive_link) |
+15 | ETL for DW | 5 | [Link](https://drive.google.com/file/d/1IiIDEBAkMGVxYCOksxzqrWpXJEEnbP1q/view?usp=drive_link) |
+16 | MDX Queries | 6 | [Link](https://drive.google.com/file/d/1PMvrT69hqSfWlSidb1Ije7lJhKZETywN/view?usp=drive_link) |
+17 | Reporting Tools | 6 | [Link](https://drive.google.com/file/d/1sucezdSKJ4zPhgDGilGh0ZFdq2FyG3zU/view?usp=drive_link) |
