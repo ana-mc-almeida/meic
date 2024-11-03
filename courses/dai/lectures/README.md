@@ -12,8 +12,8 @@ Number | Topic | Week | Link | Summary
 4 | Data Integration | 2 | [Link](https://drive.google.com/file/d/1C012hapF_5GTvcInWYusl_HhSkMqBsiz/view?usp=drive_link) | [My Summary](../study/data-integration.md)
 5 | ETL Tools Intro | 2 | [Link](https://drive.google.com/file/d/1L3Kw8VWPwOW4IRDeGdeASz7JO6TTyByS/view?usp=drive_link) | [My Summary](../study/etl-tools.md)
 6 | ETL Tools Queries | 2 | [Link](https://drive.google.com/file/d/1jjZSbMebi_Dc1O5aZlkBOThKh_35y2oR/view?usp=drive_link) | [My Summary](../study/etl-tools.md)
-7 | String Matching | 2 | [Link](https://drive.google.com/file/d/1jQn_GfbTx9vAu0w0fAbQ5IlelZeal80_/view?usp=drive_link) |
-8 | Duplicate Detection | 3 | [Link](https://drive.google.com/file/d/1JFG8JwHqZ4q_yMBFRZ6JEcx5x31OXOVY/view?usp=drive_link) |
+7 | String Matching | 2 | [Link](https://drive.google.com/file/d/1jQn_GfbTx9vAu0w0fAbQ5IlelZeal80_/view?usp=drive_link) | [My Summary](../study/string-matching.md)
+8 | Duplicate Detection | 3 | [Link](https://drive.google.com/file/d/1JFG8JwHqZ4q_yMBFRZ6JEcx5x31OXOVY/view?usp=drive_link) | [My Summary](../study/duplicate-detection.md)
 9 | Data Profiling | 3 | [Link](https://drive.google.com/file/d/12wdlyP0LMCFIGSm0JXpWDOj73O6j5jlx/view?usp=drive_link) | [My Summary](../study/data-profiling.md)
 10 | Data Warehousing | 3 | [Link](https://drive.google.com/file/d/1VcvojG5VVzKxUd_pX3WyZibmnZ0wNISO/view?usp=drive_link) | [My Summary](../study/data-warehousing.md)
 11 | DW Design | 4 | [Link](https://drive.google.com/file/d/1zhW4V7Du4icwrqDRUZL5_jWkADsjhyBX/view?usp=drive_link) | [My Summary](../study/data-warehouse-design.md)
