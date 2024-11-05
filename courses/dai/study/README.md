@@ -1,21 +1,21 @@
 ## Topics I need to study:
 
-- [ ] [Views](./views.md)
-- [ ] [Data Integration](./data-integration.md)
-- [ ] ETL Tools
-- [ ] String Matching
+- [x] [Views](./views.md)
+- [x] [Data Integration](./data-integration.md)
+- [x] [ETL Tools](./etl-tools.md)
+- [x] [String Matching](./string-matching.md)
 - [ ] Data Matching
-- [ ] Duplicate Detection
-- [ ] Data Profiling
-- [ ] Data Warehousing
-  - [ ] DW Design
-- [ ] [OLAP Operations](./olap-operations.md)
-- [ ] SCDs
+- [x] [Duplicate Detection](./duplicate-detection.md)
+- [x] [Data Profiling](./data-profiling.md)
+- [x] [Data Warehousing](./data-warehousing.md)
+  - [x] [DW Design](./data-warehouse-design.md)
+- [ ] [OLAP Operations](./OLAP-Cubes.md)
+- [x] [SCDs](./scd.md)
 - [ ] ETL for DW
-- [ ] [MDX Queries](./mdx-queries.md)
+- [ ] [MDX Queries](./MDX-Queries.md)
 - [ ] Reporting Tools
 
-## Current questions
+## Questions
 
 - What is a **mediated schema**?
   - A mediated schema is a schema that integrates data from multiple sources.
