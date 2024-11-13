@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "name": "✨ MEIC ✨",
+            "path": "../.."
+        },
+        {
+            "name": "Other Courses",
+            "path": ".."
+        },
+        {
+            "name": "Software Architecture",
+            "path": "."
+        }
+    ],
+    "settings": {
+      "files.exclude":{
+        "sa/":true,
+        "courses":true
+      },
+    }
+}

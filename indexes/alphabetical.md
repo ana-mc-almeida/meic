@@ -1,14 +1,25 @@
 # Alphabetical Index <!-- omit in toc -->
 
+- [B](#b)
+- [C](#c)
 - [D](#d)
 - [I](#i)
+- [S](#s)
 
 
 <!-- ### A -->
 
-<!-- ### B -->
+### B
 
-<!-- ### C -->
+Course | Acronym | Folder | Fénix Page
+------ | ------- | ------ | ----------
+Business Process Engineering and Technology | ETPN | [ETPN](/courses/etpn/) | [ETPN - Fénix Page](https://fenix.tecnico.ulisboa.pt/disciplinas/ETPN11/2024-2025/1-semestre)
+
+### C
+
+Course | Acronym | Folder | Fénix Page
+------ | ------- | ------ | ----------
+Communication Skills in Computer Science and Engineering I | CCEIC I | [CCEIC](/courses/cceic/) | [CCEIC I - Fénix Page](https://fenix.tecnico.ulisboa.pt/disciplinas/CCEIC11/2024-2025/1-semestre)
 
 ### D
 
@@ -48,7 +59,11 @@ Information Visualization | IV | [IV](/courses/iv/) | [IV - Fénix Page](https:/
 
 <!-- ### R -->
 
-<!-- ### S -->
+### S
+
+Course | Acronym | Folder | Fénix Page
+------ | ------- | ------ | ----------
+Software Architecture | SA | [SA](/courses/sa/) | [SA - Fénix Page](https://fenix.tecnico.ulisboa.pt/disciplinas/ASof11/2024-2025/1-semestre)
 
 <!-- ### T -->
 

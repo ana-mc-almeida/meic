@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "name": "✨ MEIC ✨",
+            "path": "../.."
+        },
+        {
+            "name": "Other Courses",
+            "path": ".."
+        },
+        {
+            "name": "Business Process Engineering and Technology",
+            "path": "."
+        }
+    ],
+    "settings": {
+      "files.exclude":{
+        "etpn/":true,
+        "courses":true
+      },
+    }
+}
