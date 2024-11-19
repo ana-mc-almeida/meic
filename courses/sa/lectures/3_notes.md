@@ -17,3 +17,13 @@ Parts | Performance | Availability |
 ```
 NO SOFTWARE ARCHITECTURE = BIG BALL OF MUD
 ```
+
+## Qualities
+
++ **Availability** - Lecture 5
++ **Performance** - Lecture 6
++ **Modifiability** - Lecture 7
++ **Security** - Lecture 8
++ **Depoyability**
++ **Usability**
++ ...
