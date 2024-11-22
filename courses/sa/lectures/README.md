@@ -7,7 +7,7 @@
 | 3 | Understanding Quality Attributes | 1 | Chapter 3 of [SAiP](https://drive.google.com/file/d/1d-dC03FWPuhMSR0YGsQ0IFAYFE9DTQPk/view?usp=drive_link)| TBD|
 | 4 | Back-the-Envelope Estimation| 2 | Chapter 2 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link) <br> Chapter 4 of [SAiP](https://drive.google.com/file/d/1d-dC03FWPuhMSR0YGsQ0IFAYFE9DTQPk/view?usp=drive_link) pages 51-55  | [Summary Chapter 2 of SDI1](./4_summary_sdi1.md) <br> [Summary of Chapter 4 of SAiP](./4_summary_saip.md) |
 | 5 | Availability Tactics| 2 | Chapter 4 of [SAiP](https://drive.google.com/file/d/1d-dC03FWPuhMSR0YGsQ0IFAYFE9DTQPk/view?usp=drive_link) pages 55-62 | [Summary of Chapeter 4 of SAiP](./5_summary.md) |
-| 6 | Performance| 2 | Chapter 9 of [SAiP](https://drive.google.com/file/d/1d-dC03FWPuhMSR0YGsQ0IFAYFE9DTQPk/view?usp=drive_link) pages 133-142 | TBD|
+| 6 | Performance| 2 | Chapter 9 of [SAiP](https://drive.google.com/file/d/1d-dC03FWPuhMSR0YGsQ0IFAYFE9DTQPk/view?usp=drive_link) pages 133-142 | [Summary Chapter 9 of SAiP](./6_summary.md) |
 | 7 | Modifiability| 2 | Chapter 8 of [SAiP](https://drive.google.com/file/d/1d-dC03FWPuhMSR0YGsQ0IFAYFE9DTQPk/view?usp=drive_link) pages 117-124, till 8.2 | TBD|
 | 8 | Security| 3 | Chapter 11 of [SAiP](https://drive.google.com/file/d/1d-dC03FWPuhMSR0YGsQ0IFAYFE9DTQPk/view?usp=drive_link) pages 169-176, till 11.2 | TBD|
 | 9 | Designing an Architecture| 3 | Chapter 20 of [SAiP](https://drive.google.com/file/d/1d-dC03FWPuhMSR0YGsQ0IFAYFE9DTQPk/view?usp=drive_link)  | TBD|
