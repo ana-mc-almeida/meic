@@ -10,7 +10,7 @@
 | 6 | Performance| 2 | Chapter 9 of [SAiP](https://drive.google.com/file/d/1d-dC03FWPuhMSR0YGsQ0IFAYFE9DTQPk/view?usp=drive_link) pages 133-142 | [Summary Chapter 9 of SAiP](./6_summary.md) |
 | 7 | Modifiability| 2 | Chapter 8 of [SAiP](https://drive.google.com/file/d/1d-dC03FWPuhMSR0YGsQ0IFAYFE9DTQPk/view?usp=drive_link) pages 117-124, till 8.2 | [Summary Chapter 8 of SAiP](./7_summary.md) |
 | 8 | Security| 3 | Chapter 11 of [SAiP](https://drive.google.com/file/d/1d-dC03FWPuhMSR0YGsQ0IFAYFE9DTQPk/view?usp=drive_link) pages 169-176, till 11.2 | [Chapter 11 of SAiP](./8_summary.md) |
-| 9 | Designing an Architecture| 3 | Chapter 20 of [SAiP](https://drive.google.com/file/d/1d-dC03FWPuhMSR0YGsQ0IFAYFE9DTQPk/view?usp=drive_link)  | TBD|
+| 9 | Designing an Architecture| 3 | Chapter 20 of [SAiP](https://drive.google.com/file/d/1d-dC03FWPuhMSR0YGsQ0IFAYFE9DTQPk/view?usp=drive_link)  | [Summary Chapter 20 of SAiP](./9_summary.md) <br> [Notes Lecture 9](./9_notes.md) |
 | 10| Architectural Views and Styles| 3 | Sections P.3, P.4, I.1-I.5 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) <br> Chapter 1 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) | TBD|
 | 11| Decomposition and Data Model Styles| 3 | Sections 2.1 and 2.6 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) | TBD|
 | 12| Uses and Layered Styles| 4 | Sections 2.2 and 2.4 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) | TBD|
