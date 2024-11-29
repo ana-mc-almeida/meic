@@ -31,7 +31,7 @@ There are 6 importante module styles:
 3. Generalization
 4. Layered
 5. Aspects
-6. Data Model
+6. [Data Model](#data-model-style)
 
 In this class we will focus on Decomposition and Data Model Styles.
 
