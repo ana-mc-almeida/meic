@@ -13,7 +13,7 @@
 ## Professor Notes
 
 ### First delivery:
-- Design Propose
+- Design Purpose
 - Primary Functionalities
 - Quality Attributes
 - Constraints
