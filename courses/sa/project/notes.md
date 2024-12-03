@@ -7,6 +7,7 @@
   - [First delivery:](#first-delivery)
   - [Second delivery:](#second-delivery)
   - [Third delivery:](#third-delivery)
+- [Hints (from professor)](#hints-from-professor)
 
 </details>
 
@@ -32,3 +33,9 @@ Rounds must:
 
 ### Third delivery:
 Show structures
+
+## Hints (from professor)
+
+- [ ] Design a context diagram, like in Figure 20.2 in SAiP.
+- [ ] Try to consider Politeness as an Integrability quality, Chapter 7 in SAiP.
+- [ ] Design the architecture for Search Index Engine and provide modifiability scenarios for the other purposes.
