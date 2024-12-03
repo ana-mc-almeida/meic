@@ -27,12 +27,12 @@ In this class we will focus on [Uses](#uses-style) and [Layered](#layered-style)
 In [class 13](./13_summary.md) we will talk about [Generalization](./13_summary.md#generalization-style) styles.
 
 There are 6 importante module styles:
-1. [Decomposition](11_summary.md#decomposition-style)
+1. [Decomposition](./11_summary.md#decomposition-styles)
 2. [Uses](#uses-style)
 3. [Generalization](./13_summary.md#generalization-style)
 4. [Layered](#layered-style)
-5. Aspects
-6. [Data Model](11_summary.md#data-model-style)
+5. [Aspects](./13_summary.md#aspect-style)
+6. [Data Model](./11_summary.md#data-model-style)
 
 ## Uses Style
 
