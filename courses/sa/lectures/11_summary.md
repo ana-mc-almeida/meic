@@ -27,13 +27,13 @@
 
 There are 6 importante module styles:
 1. [Decomposition](#decomposition-styles)
-2. Uses
-3. Generalization
-4. Layered
+2. [Uses](./12_summary.md#uses-style)
+3. [Generalization](./13_summary.md#generalization-style)
+4. [Layered](./12_summary.md#layered-style)
 5. Aspects
 6. [Data Model](#data-model-style)
 
-In this class we will focus on Decomposition and Data Model Styles.
+In this class we will focus on [Decomposition](#decomposition-style) and [Data Model](#data-model-style) Styles. Find other styles in the [summary of class 12](12_summary.md) and [summary of class 13](13_summary.md).
 
 ## Decomposition Style
 

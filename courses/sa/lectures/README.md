@@ -13,8 +13,8 @@
 | 9 | Designing an Architecture| 3 | Chapter 20 of [SAiP](https://drive.google.com/file/d/1d-dC03FWPuhMSR0YGsQ0IFAYFE9DTQPk/view?usp=drive_link)  | [Summary Chapter 20 of SAiP](./9_summary.md) <br> [Notes Lecture 9](./9_notes.md) |
 | 10| Architectural Views and Styles| 3 | Sections P.3, P.4, I.1-I.5 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) <br> Chapter 1 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) | [Lecture Notes](./10_notes.md) |
 | 11| Decomposition and Data Model Styles| 3 | Sections 2.1 and 2.6 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) | [Summary Sections 2.1 and 2.6 DSA](./11_summary.md) <br> [Lecture Notes](./11_notes.md) |
-| 12| Uses and Layered Styles| 4 | Sections 2.2 and 2.4 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) | TBD|
-| 13| Generalization Styles  | 4 | Section 2.3 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link)| TBD|
+| 12| Uses and Layered Styles| 4 | Sections 2.2 and 2.4 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) | [Summary Sections 2.2 and 2.4 DSA](./12_summary.md) |
+| 13| Generalization Styles  | 4 | Section 2.3 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link)| [Summary Section 2.3 DSA](./13_summary.md) |
 | 14| Component-and-Connector Views | 4 | Chapter 3 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link)| TBD|
 | 15| Data-Flow, Client-Server and Peer-to-Peer Styles| 4 | Sections 4.2, 4.3.1, and 4.3.2 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) | TBD|
 | 16| Event-Based and Repository Styles| 5 | Sections 4.4 and 4.5 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) | TBD|
