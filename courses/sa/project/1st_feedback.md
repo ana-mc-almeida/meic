@@ -4,11 +4,14 @@
 <summary>Table of Contents</summary>
 
 - [Quality Attributes](#quality-attributes)
-  - [Politeness](#politeness)
-  - [Scalability](#scalability)
-  - [Consistency](#consistency)
+  - [Performance](#performance)
+  - [Integrability](#integrability)
+  - [Modifiability](#modifiability)
   - [Availability](#availability)
   - [Security](#security)
+  - [Consistency](#consistency)
+  - [Availability](#availability-1)
+  - [Security](#security-1)
   - [Extensibility](#extensibility)
   - [Reliability](#reliability)
 - [Architectural Concerns](#architectural-concerns)
@@ -51,74 +54,101 @@
   - [x] Cenário para começar a recolher Imagens
 - [x] Reliability
 
+### Performance
 
-### Politeness
+P1:
+- Source: Page URL
+- Stimulus: Process Page -> Periodic
+- Artifact: Web Crawler
+- Environment: Normal operation
+- Response: Page is processed
+- Response measure: 
+  - Throughput: 1 billion pages per month = ~400 pages/s
+  - Latency: 150ms on average
 
-- General Idea: the crawler respects the robots.txt file
+P2:
+- Source: Page URL
+- Stimulus: Process Page -> Stochastic
+- Artifact: Web Crawler
+- Environment: Peak load
+- Response: Page is processed
+- Response measure: 
+  - Throughput: 500 millions pages per month = ~200 pages/s
+  - Latency: 500ms on average
 
-Parts | Politeness Scenario
------ | --------------------
-**Source of Stimulus** | Website robot.txt file
-**Stimulus**| The crawler encounters a valid robots.txt file with rules
-**Artifact**| Crawler
-**Environment**| Normal operation
-**Response**| Assumes the rules in the robots.txt file
-**Response Measure**| No unintended access to the website
+### Integrability
 
-- Scenario: The crawler visits a website and searches for its robots.txt file. When the file is found and properly formatted, the crawler parses the rules defined within and follows these rules, avoiding restricted areas and pacing requests according to the specified delay.
+I1:
+- Source: Website Vendor
+- Stimulus: Add new website to web crawl
+- Artifact: Web Crawler and Website Vendor
+- Environment: Runtime
+- Response: Web Crawler respects the new website's robots.txt
+- Response measure: cost 0, some performance overhead
 
----
+### Modifiability
 
-- General Idea: the crawler finds an invalid robots.txt file
+M1: (Scalability)
+- Source: Web Crawler Administrator
+- Stimulus: Increase the number of URLs to process
+- Artifact: Web Crawler Components
+- Environment: Build time
+- Response: Improve resource usage
+- Response measure:
+  - Elapsed time: at most 1 day
+  - Money: new resources cost
 
-Parts | Politeness Scenario
------ | --------------------
-**Source of Stimulus** | Website with an invalid robots.txt file
-**Stimulus**| Crawler encounters a malformed robots.txt file (e.g., HTML instead of plain text)
-**Artifact**| Crawler
-**Environment**| Normal operation
-**Response**| Assumes that all paths are allowed
-**Response Measure**| FIXME
+M2: (Extensibility)
+- Source: Web Crawler Administrator
+- Stimulus: Add support for web archiving
+- Artifact: Web Archiving Module
+- Environment: Design time
+- Response: Implement web archiving functionality
+- Response measure:
+  - Elapsed time: 3 months
+  - Money: developer salaries and new resources cost
 
-- Scenario: The crawler searches for the robots.txt file on a target website. However, instead of a valid text file, it encounters a malformed or non-standard file, such as an HTML document or a file with unreadable syntax. When this happens, the crawler assumes that the file does not provide restrictions and proceeds as though all paths on the website are accessible and waits 1 second between requests to avoid overloading the website.
+M3: (Extensibility)
+- Source: Web Crawler Administrator
+- Stimulus: Add support for web mining
+- Artifact: Web Mining Module
+- Environment: Design time
+- Response: Implement web mining functionality
+- Response measure:
+  - Elapsed time: 5 months
+  - Money: developer salaries and new resources cost
 
----
+M4: (Extensibility)
+- Source: Web Crawler Administrator
+- Stimulus: Add support for web monitoring
+- Artifact: Web Monitoring Module
+- Environment: Design time
+- Response: Implement web monitoring functionality
+- Response measure:
+  - Elapsed time: 1 months
+  - Money: developer salaries and new resources cost
 
-<!--
-- General Idea: the crawler avoids overloading the website
+### Availability
 
-Parts | Politeness Scenario
------ | --------------------
-**Source of Stimulus** | Multiple URLs from the same domain
-**Stimulus**| Requests queued for the same domain
-**Artifact**| Crawler
-**Environment**| Normal operation
-**Response**| Enforce a minimum delay between consecutive requests
-**Response Measure**| If crawl-delay is set, respect it; otherwise, wait 1 second between requests.
+A1: system crash
+TODO
 
-- Scenario: The crawler detects that it is making multiple requests to the same domain. To prevent overwhelming the website, it enforces a minimum delay between requests. If the website specifies a `Crawl-Delay` directive in its `robots.txt` file, the crawler uses that value; otherwise, it defaults to a 1-second delay.
--->
+A2: external server that responds with high latency - sites crahsrem
+TODO
 
----
----
+A3: handle corrupted or invalid HTML files without crashing
+TODO
 
-### Scalability
+A4: handle malformed links
+TODO
 
-- General Idea: the crawler can handle a large number of URLs
+### Security
 
-Parts | Scalability Scenario
------ | --------------------
-**Source of Stimulus** | Increasing number of URLs
-**Stimulus**| Number of URLs increases from 100 to 1000
-**Artifact**| Crawler
-**Environment**| Normal operation
-**Response**| Crawler can handle the increased load
-**Response Measure**| No resource bottlenecks
+S1: spider trap
+TODO
 
-- Scenario: The crawler begins processing a moderate workload of URLs, but this workload quickly scales to a much larger number of URLs, such as from 100 to 1000. The crawler dynamically adjusts its resource usage, distributing tasks efficiently to handle the increased volume without CPU, memory, or I/O bottlenecks.
-
---- 
----
+S2: malicious URL
+TODO
 
 ### Consistency
 
