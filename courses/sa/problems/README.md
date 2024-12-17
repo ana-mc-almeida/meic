@@ -10,8 +10,8 @@
 | 6 | Design Consistent Hashing | 3| Chapter 5 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link) <br> Design a Key-Value Store (Chapter 6 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link)) | TBD |
 | 7 | Design a News Feed System | 4| Chapter 11 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link)| [Class Notes](./7_notes.md)|
 | 8 | Design a News Feed System | 4| Chapter 11 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link)| [Class Notes](./7_notes.md)|
-| 9 | Design a Notification System | 4| Chapter 10 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link)| TBD|
-| 10 | Design a Notification System | 4| Chapter 10 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link)| TBD|
+| 9 | Design a Notification System | 4| Chapter 10 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link)| [Class Notes (with 10)](9_notes.md)|
+| 10 | Design a Notification System | 4| Chapter 10 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link)| [Class Notes (with 9)](./9_notes.md)|
 | 11 | Design a Chat System | 5| Chapter 12 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link)| TBD|
 | 12| YouTube Design Resolution | 6| Based on previous work from Chapter 14 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link) | TBD|
 | 13| Project Support | 7| Project documentation and resources| TBD |
