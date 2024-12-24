@@ -12,7 +12,7 @@
 | 8 | Design a News Feed System | 4| Chapter 11 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link)| [Class Notes](./7_notes.md)|
 | 9 | Design a Notification System | 4| Chapter 10 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link)| [Class Notes (with 10)](9_notes.md) <br> [Tablet Class Notes](./9_notes.pdf)|
 | 10 | Design a Notification System | 4| Chapter 10 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link)| [Class Notes (with 9)](./9_notes.md)|
-| 11 | Design a Notification System | 4| Chapter 10 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link)| [Class Notes](./11_notes.md) <br> [Hand notes by Tiago](./11_notes_tiago.pdf)|
-| 12| YouTube Design Resolution | 6| Based on previous work from Chapter 14 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link) | TBD|
+| 11 | Design a Notification System | 4| Chapter 10 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link)| [Class Notes (with 12)](./11_notes.md) <br> [Hand notes by Tiago](./11_notes_tiago.pdf)|
+| 12 | Design a Notification System| 4| Chapter 10 of [SDI1](https://drive.google.com/file/d/1vQ4NP1zXIjR7OsQ2arEK-qbDIvu3PxRB/view?usp=drive_link)| [Class Notes (with 12)](./11_notes.md) |
 | 13| Project Support | 7| Project documentation and resources| TBD |
 | 14| Project Support | 7| Project documentation and resources| TBD |
