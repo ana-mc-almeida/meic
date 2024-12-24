@@ -15,14 +15,14 @@
 | 11| Decomposition and Data Model Styles| 3 | Sections 2.1 and 2.6 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) | [Summary Sections 2.1 and 2.6 DSA](./11_summary.md) <br> [Lecture Notes](./11_notes.md) |
 | 12| Uses and Layered Styles| 4 | Sections 2.2 and 2.4 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) | [Summary Sections 2.2 and 2.4 DSA](./12_summary.md) <br> [Lecture Notes](./12_notes.md) |
 | 13| Generalization and Aspects Styles  | 4 | Section 2.3 and 2.5 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link)| [Summary Section 2.3 DSA](./13_summary.md) |
-| 14| Component-and-Connector Views | 4 | Chapter 3 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link)| TBD|
+| 14| Component-and-Connector Views | 4 | Chapter 3 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link)| [Lecture Notes (INCOMPLETE)](./14_notes.md)|
 | 15| Data-Flow, Client-Server and Peer-to-Peer Styles| 4 | Sections 4.2, 4.3.1, and 4.3.2 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) | TBD|
-| 16| Event-Based and Repository Styles| 5 | Sections 4.4 and 4.5 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) | TBD|
+| 16| Event-Based and Repository Styles| 5 | Sections 4.4 and 4.5 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) | [Summary Sections 4.4 and 4.5 DSA (INCOMPLETE)](./16_summary.md)|
 | 17| Crosscutting Styles | 5 | Section 4.6 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link)| TBD|
 | 18| Service-Oriented Architecture Style and Adventure Builder | 5 | Section 4.3.3 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link) | TBD|
 | 19| Allocation Styles | 5 | Sections 5.1-5.4 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link)| TBD|
-| 20| Microservices| 6 | ["Microservices" by Martin Fowler](https://martinfowler.com/articles/microservices.html) | TBD|
-| 21| Managing Transactions with Saga  | 6 | Sections 4.1-4.3 of [MP](https://drive.google.com/file/d/1K4marSY_pO-HIYJCj9XUOKQ7L1ylB8im/view?usp=drive_link), until "Countermeasure: Semantic Lock" included | TBD|
+| 20| Microservices| 6 | ["Microservices" by Martin Fowler](https://martinfowler.com/articles/microservices.html) | [Lecture Notes (INCOMPLETE)](./20_notes.md) |
+| 21| Managing Transactions with Saga  | 6 | Sections 4.1-4.3 of [MP](https://drive.google.com/file/d/1K4marSY_pO-HIYJCj9XUOKQ7L1ylB8im/view?usp=drive_link), until "Countermeasure: Semantic Lock" included | [Lecture Notes (INCOMPLETE)](./21_notes.md) |
 | 22| Aggregates and Events  | 6 | Sections 5.1-5.3.1 of [MP](https://drive.google.com/file/d/1K4marSY_pO-HIYJCj9XUOKQ7L1ylB8im/view?usp=drive_link)| TBD|
 | 23| Event Sourcing  | 6 | Section 6.1 of [MP](https://drive.google.com/file/d/1K4marSY_pO-HIYJCj9XUOKQ7L1ylB8im/view?usp=drive_link)| TBD|
 | 24| Querying in Microservice Architecture | 7 | Sections 7.1-7.2 of [MP](https://drive.google.com/file/d/1K4marSY_pO-HIYJCj9XUOKQ7L1ylB8im/view?usp=drive_link)| TBD|
