@@ -23,9 +23,9 @@
 | 19| Allocation Styles | 5 | Sections 5.1-5.4 of [DSA](https://drive.google.com/file/d/1PJbhqzG4tfNo1CbWY44EIrI2jTTtbemO/view?usp=drive_link)| TBD|
 | 20| Microservices| 6 | ["Microservices" by Martin Fowler](https://martinfowler.com/articles/microservices.html) | [Lecture Notes (INCOMPLETE)](./20_notes.md) |
 | 21| Managing Transactions with Saga  | 6 | Sections 4.1-4.3 of [MP](https://drive.google.com/file/d/1K4marSY_pO-HIYJCj9XUOKQ7L1ylB8im/view?usp=drive_link), until "Countermeasure: Semantic Lock" included | [Lecture Notes (INCOMPLETE)](./21_notes.md) |
-| 22| Aggregates and Events  | 6 | Sections 5.1-5.3.1 of [MP](https://drive.google.com/file/d/1K4marSY_pO-HIYJCj9XUOKQ7L1ylB8im/view?usp=drive_link)| TBD|
-| 23| Event Sourcing  | 6 | Section 6.1 of [MP](https://drive.google.com/file/d/1K4marSY_pO-HIYJCj9XUOKQ7L1ylB8im/view?usp=drive_link)| TBD|
-| 24| Querying in Microservice Architecture | 7 | Sections 7.1-7.2 of [MP](https://drive.google.com/file/d/1K4marSY_pO-HIYJCj9XUOKQ7L1ylB8im/view?usp=drive_link)| TBD|
-| 25| External API Patterns  | 7 | Sections 8.1-8.2 of [MP](https://drive.google.com/file/d/1K4marSY_pO-HIYJCj9XUOKQ7L1ylB8im/view?usp=drive_link)| TBD|
-| 26| Open Lecture | 7 | TBA | TBD|
-| 27| Invited Talk | 7 | TBA | TBD|
+| 22| Aggregates and Events  | 6 | Sections 5.1-5.3.1 of [MP](https://drive.google.com/file/d/1K4marSY_pO-HIYJCj9XUOKQ7L1ylB8im/view?usp=drive_link)| TBD |
+| 23| Event Sourcing  | 6 | Section 6.1 of [MP](https://drive.google.com/file/d/1K4marSY_pO-HIYJCj9XUOKQ7L1ylB8im/view?usp=drive_link)| TBD |
+| 24| Digital Wallet Design | 7 | Chapter 12 of SDI2 | TBD |
+| 25| Invited Talk: Western Union Case by Deloitte  | 7 | [Presentation](https://drive.google.com/file/d/1O00CqmwATf7edfK9XjPkXHFiBLFJdKoJ/view?usp=drive_link) | TBD|
+| 26| Querying in Microservice Architecture | 7 | Sections 7.1-7.2 of [MP](https://drive.google.com/file/d/1K4marSY_pO-HIYJCj9XUOKQ7L1ylB8im/view?usp=drive_link) | TBD |
+| 27| External API Patterns | 7 | Sections 8.1-8.2 of [MP](https://drive.google.com/file/d/1K4marSY_pO-HIYJCj9XUOKQ7L1ylB8im/view?usp=drive_link) | TBD |
