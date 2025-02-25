@@ -15,6 +15,7 @@
 - Design and implement the Scrum board layout (UI) that is going to be used in homepage and sprint page
 - In homepage create the backlog and Sprints columns
 - Implement functionality to create new backlog items (tasks) and add to the backlog list
+    - Tempo estimado e tempo que foi gasto (depois da task ser implementada)
 - Implement functionality to edit and delete backlog items (tasks)
 - Implement user assignment for tasks
 - Implement task descriptions (rich text support)
