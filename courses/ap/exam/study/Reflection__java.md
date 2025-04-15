@@ -15,6 +15,8 @@
 ## Dispatch em Java
 
 > Antes de ler isto, convém perceberes alguns [Dispatch Concepts](Reflection__concepts.md#dispatch)
+>
+> Also, **spoiler alert**, Java não permite multiple dispatch assim tão facilmente
 
 Com `shapes` definidas como:
 ```java

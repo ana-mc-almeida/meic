@@ -10,5 +10,6 @@
    5. [Common Lisp Language Introduction](CommonLisp.md)
    6. TODO: Missing Lisp Memoization (slide 114 to 138) - skippei porque farta disto
    7. TODO: Missing Intercession with Javassist (slide 139 to 264) -> skippei porque farta disto + nem sei se me parece relevante
-3. TODO: CLOS
+3. [CLOS](CLOS.md)
+   1. Missing stuff mas é o que é
 4. TODO: Meta-Circular Evaluator

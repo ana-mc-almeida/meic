@@ -224,3 +224,37 @@ Will return
 > - ,subexpr -> evaluates subexpr and inserts the value in the containing expression.
 > - ,@subexpr -> evaluates subexpr and splices the value (a list) in the containing expression.
 > Isto também existe em Julia. Vê o [ficheiro de Julia](Julia.md).
+
+---
+
+# Other Sintaxs
+
+## mapcar
+
+TODO
+
+## make-list 
+
+Em especial tudo de `(add x (make-list (length x) :initial-element y)))`
+
+## Tipo `t`
+
+O tipo `t` é o supertipo de todos os tipos. Ou seja, pode ser qualquer tipo
+
+## promote
+
+O `promote` é uma função que converte um tipo para outro.
+
+<details>
+<summary>Exemplo:</summary>
+
+```lisp
+> (promote 1 1.5)
+1.0
+1.5
+
+> (promote 1 '(1 2))
+(1)
+(1 2)
+```
+</details>
