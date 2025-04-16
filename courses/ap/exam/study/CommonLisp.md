@@ -224,6 +224,7 @@ Will return
 > - ,subexpr -> evaluates subexpr and inserts the value in the containing expression.
 > - ,@subexpr -> evaluates subexpr and splices the value (a list) in the containing expression.
 > Isto também existe em Julia. Vê o [ficheiro de Julia](Julia.md).
+> Isto são os **templates** falados em [Meta-Circular Evaluators](MetaCircular.md).
 
 ---
 

@@ -8,6 +8,12 @@
   - [Promotion](#promotion)
   - [Instance Specialization](#instance-specialization)
   - [Method Combination](#method-combination)
+- [Classes](#classes)
+  - [Multiple Dispatch](#multiple-dispatch-1)
+  - [Slots](#slots)
+  - [Mixins](#mixins)
+  - [Class Inheritance / Meta Classes](#class-inheritance--meta-classes)
+  - [Dynamic Objects](#dynamic-objects)
 
 </details>
 
@@ -216,3 +222,29 @@ The number 1/3 is a rational
 > Acho que a única coisa importante de reter é que ele começa sempre pelo mais espcífico e vai andando até o método não ter o `call-next-method`
 
 > TODO: missing tudo das classes porque chato para caralho
+
+## Classes
+
+### Multiple Dispatch
+
+TODO
+
+### Slots
+
+TODO
+
+### Mixins
+
+TODO
+
+### Class Inheritance / Meta Classes
+
+TODO
+
+Basicamente é quando uma classe pode herdar características (atributos e métodos) de mais de uma classe base.
+
+Diria que está explicado a partir do 214 dos CLOS slides.
+
+### Dynamic Objects
+
+TODO
