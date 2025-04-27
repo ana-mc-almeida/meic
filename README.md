@@ -13,5 +13,11 @@ The courses I took are:
 - [CCEIC I - Communication Skills in Computer Science and Engineering I](/courses/cceic/)
 - [Software Architecture](/courses/sa/)
 - [ETPN - Business Process Engineering and Technology](/courses/etpn/)
+- [Advanced Programming](/courses/ap/)
+- [Informatic Systems Project Management](/courses/ispm/)
+- [Autonomous Agents and Multi-Agent Systems](/courses/aamas/)
+- [Enterprise Integration](/courses/ei/)
+- [Security and Management of Information Systems](/courses/smis/)
+- [Software Testing and Validation](/courses/stv/)
 
 > You can also check other indexes such as the [chronological index](/indexes/chronological.md) or the [alphabetical index](/indexes/alphabetical.md) in the [indexes](/indexes/) folder.
