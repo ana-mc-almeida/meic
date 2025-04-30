@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "name": "✨ MEIC ✨",
+      "path": "../.."
+    },
+    {
+      "name": "Other Courses",
+      "path": ".."
+    },
+    {
+      "name": "EI",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "cceic/": true,
+      "courses": true
+    }
+  }
+}
