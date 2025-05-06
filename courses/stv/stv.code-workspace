@@ -1,0 +1,26 @@
+{
+  "folders": [
+    {
+      "name": "✨ MEIC ✨",
+      "path": "../.."
+    },
+    {
+      "name": "Other Courses",
+      "path": ".."
+    },
+    {
+      "name": "Software Testing and Validation",
+      "path": "."
+    }
+  ],
+  "settings": {
+    "files.exclude": {
+      "etpn/": true,
+      "courses": true
+    },
+    "github.copilot.enable": {
+      "*": true,
+      "java": false // Disable Copilot for Java files because I don't want copilot when doing the labs
+    }
+  }
+}
