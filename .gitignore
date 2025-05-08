@@ -1,3 +1,8 @@
 .vscode/
 **/venv/
 **/.obsidian/
+
+courses/ei/tutorials/*/aws_credentials
+courses/ei/tutorials/*/ssh
+courses/ei/tutorials/*/*.pem
+courses/ei/tutorials/*/*.ppk
