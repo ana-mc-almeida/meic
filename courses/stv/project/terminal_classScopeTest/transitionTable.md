@@ -4,13 +4,14 @@ VT = Valid Transition, PSP = Possible sneak path, ? = Conditional Transition
 
 | Events \ State          | OFF | NORMAL | BUSY | SILENT |
 | ----------------------- | --- | ------ | ---- | ------ |
-| balace                  | VT  | VT     | VT   | VT     |
+| getMode                 | VT  | VT     | VT   | VT     |
+| balace                  | VT  | VT     | PSP  | VT     |
 | pay                     | ?   | PSP    | PSP  | PSP    |
 | turnOn                  | VT  | PSP    | PSP  | PSP    |
 | turnOff                 | PSP | VT     | PSP  | VT     |
 | toggleOnMode            | PSP | VT     | PSP  | VT     |
 | makeVoiceCall           | PSP | ?      | PSP  | ?      |
 | acceptVoiceCall         | PSP | VT     | PSP  | PSP    |
-| sendMessage             | PSP | VT     | PSP  | VT     |
-| receiveMessage          | PSP | VT     | VT   | ?      |
+| sendSMS                 | PSP | VT     | PSP  | VT     |
+| receiveSMS              | PSP | VT     | ?    | ?      |
 | endOngoingCommunication | PSP | PSP    | ?    | PSP    |

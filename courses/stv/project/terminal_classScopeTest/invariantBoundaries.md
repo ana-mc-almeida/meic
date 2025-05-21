@@ -5,7 +5,7 @@
 | Condition | On Point | Off Point |
 | --------- | -------- | --------- |
 | amount>=5 | 5        | 4         |
-| amount<5  | 5        | 6         |
+| amount<5  | 5        | 4         |
 
 ### makeVoiceCall in NORMAL
 
@@ -14,15 +14,26 @@
 | to.mode==NORMAL | NORMAL   | SILENT    |
 | to.mode!=NORMAL | NORMAL   | OFF       |
 
+### receiveSMS in BUSY
+
+previousMode==NORMAL \|\| client.hasFriend(from.client)  
+previousMode!=NORMAL && !client.hasFriend(from.client)
+
+| Condition                      | On Point | Off Point |
+| ------------------------------ | -------- | --------- |
+| previousMode==NORMAL           | NORMAL   | SILENT    |
+| client.hasFriend(from.client)  | true     | false     |
+| previousMode!=NORMAL           | NORMAL   | SILENT    |
+| !client.hasFriend(from.client) | false    | true      |
+
 ### endOngoingCommunication in BUSY
 
-| Condition                                    | On Point | Off Point |
-| -------------------------------------------- | -------- | --------- |
-| previousMode==NORMAL                         | NORMAL   | SILENT    |
-| previousMode==SILENT                         | SILENT   | NORMAL    |
-| previousMode!=NORMAL && previousMode!=SILENT | NORMAL   | OFF       |
+| Condition            | On Point | Off Point |
+| -------------------- | -------- | --------- |
+| previousMode==NORMAL | NORMAL   | SILENT    |
+| previousMode==SILENT | SILENT   | NORMAL    |
 
-### receiveMessage in SILENT
+### receiveSMS in SILENT
 
 | Condition                      | On Point | Off Point |
 | ------------------------------ | -------- | --------- |

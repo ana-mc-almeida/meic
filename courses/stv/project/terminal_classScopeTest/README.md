@@ -1,6 +1,6 @@
 # Class scope test cases for the Terminal class
 
-Strategy: Test model
+In order to test the Terminal class, we will use a Modal Class Test Pattern.
 
 Steps:
 
