@@ -3,3 +3,5 @@
 1. Organizations, Governance, and Management
 2. Governance of IT and IT Management
 3. IT Operations Management
+
+Choosen theme: 2. Governance of IT and IT Management
