@@ -47,7 +47,7 @@ At least the following microservices – aligned with the business entities pres
 
 # MAP 2
 
-<img src="./assets/multiple_questions.png" alt="multiple choice" width="500px"/>
+<img src="./assets/map2/multiple_questions.png" alt="multiple choice" width="500px"/>
 
 ---
 
@@ -56,7 +56,7 @@ At least the following microservices – aligned with the business entities pres
 
 ---
 
-<img src="./assets/kong_config.png" alt="kong config" width="500px"/>
+<img src="./assets/map2/kong_config.png" alt="kong config" width="500px"/>
 
 - **Which are the components used to create services?** Kong Admin or Konga
 - **If you have a new backend server what is the creation sequence in kong? Create the route, and then, the service or the opposite?** Service first, then route.
@@ -65,13 +65,13 @@ At least the following microservices – aligned with the business entities pres
 
 ---
 
-<img src="./assets/link_tag.png" alt="link tags" width="500px"/>
+<img src="./assets/map2/link_tag.png" alt="link tags" width="500px"/>
 
 **Explain in detail, what is the purpose of the provided link tags in the appointment?** This capability is provided in the maturity level 3 and the purpose is to contextualize and operate the following API Rest requests that can be used after using the API Rest appointment of the slot 1234. The provided requests corresponds to cancellation, other test, change in the appointment, a change in Time, a change in contact information and an endpoint for helping with the appointment.
 
 ---
 
-<img src="./assets/camunda.png" alt="camunda architecture" width="400px"/>
+<img src="./assets/map2/camunda.png" alt="camunda architecture" width="400px"/>
 
 Considering the CAMUNDA architecture depicted in the following side figure, identify the component (or the components) that is (or are) responsible:
 
@@ -82,7 +82,7 @@ Considering the CAMUNDA architecture depicted in the following side figure, iden
 
 ---
 
-<img src="./assets/instances.png" alt="instances" width="500px"/>
+<img src="./assets/map2/instances.png" alt="instances" width="500px"/>
 
 How can you use the following four technologies, in the table below, to increase the number of deployed microservices while keeping the limited number of EC2 instances?
 
