@@ -1,8 +1,16 @@
 .vscode/
 **/venv/
 **/.obsidian/
+.secrets.sh
 
+**/.ipynb_checkpoints/*
+
+# [EI] Tutorials keys
 courses/ei/tutorials/*/aws_credentials
 courses/ei/tutorials/*/ssh
 courses/ei/tutorials/*/*.pem
 courses/ei/tutorials/*/*.ppk
+
+# [SMIS] P2-review large file
+courses/smis/project/P2-review/Workshop.zip
+courses/smis/essays/grades/*
