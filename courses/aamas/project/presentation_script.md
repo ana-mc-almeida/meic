@@ -12,15 +12,15 @@ Ask Tiago:
 
 ---
 
-# Slide 1: Title Slide
+## Slide 1: Title Slide
 
 Hey, my name is Ana and this is my colleague Tiago and today we are going to present our [WHAT??? - Reproducing Minimax-Q and Q-Learning in Markov Games] a reproduction of Littman’s 1994 paper.
 
-# Slide 2: Roadmap
+## Slide 2: Roadmap
 
 For this presentation, we will do a little recap of what is our project about, then we will present the results that we obtained, after that we will talk about the expanded enviroment that we created and finally we will conclude with the demostration video.
 
-# Slide 3: Environment
+## Slide 3: Environment
 
 This is a competitive two-player grid-world game with a 4 by 5 grid (just like this one) that represents a simplified futball match.
 
@@ -41,7 +41,7 @@ This means that the result of certain interactions can vary depending on the ord
 
 Now that we have explained the environment, let’s talk about the agents that we trained to play this game.
 
-# Slide 4: Agents
+## Slide 4: Agents
 
 To reproduce the agents from Littman’s original paper, we implemented several different policies.
 
@@ -56,7 +56,7 @@ Finally, we implemented the Minimax-Q agent as described in Littman’s article.
 
 In addition to the agents we’ve already discussed, we also developed a set of Challenger agents. These agents were designed and trained specifically to compete with and test the robustness of the previously implemented policies. They were trained the same way as we trained the Q-Learning agent against the random opponent.
 
-# Slide 5: MR Results (Tiago)
+## Slide 5: MR Results (Tiago)
 
 Following Littman’s original 1994 paper, we used three distinct testing scenarios to assess agent performance. The first against a Random Agent, which selects actions uniformly at random. The second against a Hand-Crafted Agent, in our case against two different agents. The last against a Challenger Agent, trained using Q-learning to specifically exploit the test subject. Each evaluation was carried out over 100,000 steps, and repeated three times and the results were averaged.
 
@@ -66,19 +66,19 @@ Finally, each challenger test was repeated three times, just like in Littman’s
 
 Against a random opponent, our reproduced win rate was 99.2%, which is nearly identical to Littman’s reported 99.3%. Both results were based on around 6400–6500 completed games when the termination rule was active. This suggests our implementation of Minimax-Q closely aligns with the original formulation. Against hand-built without the termination rule, MR achieved 49.6% and 48.3% win rates, remarkably close to Littman’s 48.1% benchmark. When the termination rule is enabled, win rates decreased slightly to 46.2% and 46.4%. However, things change significantly in the challenger test. Littman reported a 35% win rate here. But our reproduced results were noticeably lower. Just 24.6% without the termination rule and only 29.8% even with the rule applied. This is a substantial deviation despite using identical training parameters. However, we’re confident in our implementation, because the performance of other Q-learning-based agents, like QR and QQ, remains consistent with Littman’s findings, as we’ll see shortly.
 
-# Slide 6: MM Results (Tiago)
+## Slide 6: MM Results (Tiago)
 
 First, against a random opponent, our MM agent achieved a 99.3% win rate over 7700 games, perfectly matching Littman’s reported performance of 99.3% over 7200 games. This again validates the correctness of our reproduction. In matches against the hand-built policy, our agent performed similarly to Littman’s in terms of win rate, but the amount of games is a bit different. This is probably because our policies are riskier than the one from Littman’s, resulting in faster terminations. Once again, the challenger test reveals the largest gap. The difference here is hard to explain. We used identical parameters and validated the core algorithm across all other tests. The variation might be due to how the challenger adapts to nuances in policy dynamics during training.
 
-# Slide 7: QR Results (Tiago)
+## Slide 7: QR Results (Tiago)
 
 First, against the random policy, our agent performed exactly as expected. Achieved a 99.4% win rate over 11,300 games with the termination rule active. This perfectly matches Littman’s reported results, both in win rate and number of completed games—an encouraging confirmation of our implementation’s correctness. When tested against more structured policies like the hand-built agents, performance dropped substantially. Win rates were around 24.8%–25.0% without the rule, and 25.9%–25.4% with it. These results are very close to Littman’s reported 26.1%. The biggest surprise comes in the test against the QR-challenger. Littman reported a 0% win rate here, complete domination by the challenger. In contrast, our QR agent achieved a 25.1% win rate. This discrepancy is hard to understand. We strictly followed the settings outlined in Littman’s paper for both the QR agent and its challenger.
 
-# Slide 8: QQ Results (Tiago)
+## Slide 8: QQ Results (Tiago)
 
 Against the random opponent, performance was strong again. Against the hand-built agents, however, things diverged. Our agent’s win rate hovered around 50–51%, regardless of the termination rule. Littman reported 76.3%, a much higher figure that suggests a more dominant policy than what we observed. This time, the fact that both our hand-built policies were riskier than Littman’s influence in the win rate. Against the QQ-challenger, both Littman’s and our agent had a 0% win rate, confirming the QQ-challenger is indeed effective at exploiting the QQ agent it was trained against. With the termination rule, the number of completed games in our experiment closely matched Littman’s. Without the termination rule, no games were completed in our case, likely due to agents falling into cyclic or indecisive behaviors that prevent reaching a terminal state.
 
-# Slide 9: Expanded Environment
+## Slide 9: Expanded Environment
 
 In addition to reproducing Littman’s original setup on the by 4 by 5 grid, we extended our experiments to a larger 6 by 10 grid, where agents were trained and evaluated from scratch within this new environment. _In all tests on the expanded field, we enabled the termination rule, as it produced results that were more consistent with those reported in Littman’s original work._
 
@@ -90,14 +90,16 @@ The most interesting results emerged from the tests against the challenger agent
 
 Interestingly, in this expanded setting, the QR-challenger not only held the QR agent to a draw but was able to defeat it, a difference from the original 4×5 field, where games between these agents often became interminable due to repetitive or indecisive behavior. The increased field size appears to introduce new spatial and strategic dynamics that allow more sophisticated opponents to better expose the limitations of simpler Q-learning policies. In this way, the larger field not only challenges the agents’ ability to learn effective strategies but also provides a more revealing testbed for understanding their vulnerabilities.
 
-# Slide 10: Video Demonstration
+## Slide 10: Video Demonstration
 
 While we were able to replicate the overall experimental framework and approximate many of Littman’s reported results, several notable discrepancies emerged.
+
 One of the primary challenges came when evaluating agents against their respective challengers. Despite faithfully reproducing the experimental parameters, the outcomes in these adversarial matchups often diverged from those reported by Littman. For instance, our MR agent performed significantly worse against the MR-challenger than expected, despite exhibiting near-identical performance in the other tests. Conversely, our MM agent outperformed Littman’s reported results against the MM-challenger when the termination rule was enabled.
 Another interpretational difficulty involved the 10% chance of termination rule. The original paper does not clearly specify whether games that terminated due to this rule were included in the reported performance statistics. In most cases, having this rule enabled led to results more closely aligned with Littman’s. However, exceptions exist: for example, in the MM agent's evaluation against hand-built opponents, not having the termination rule led to greater proximity to Littman’s outcomes.
 When expanding the original experimental design to include a larger, 6×10 soccer field, the relative ordering of agent robustness remained consistent with Littman’s findings: the QR and QQ agents were the most susceptible to exploitation, while MR and especially MM retained greater resilience against their respective challengers.
+
 Another anomaly in our study concerns Littman’s reported performance of the QQ agent against the hand-built policy. While Littman cited a 76.3% win rate, we were unable to reproduce anything close to this level of success. This raises questions about the original result’s reliability. Littman himself acknowledged surprise at his outcome.
 
-# Slide 11: Conclusion
+## Slide 11: Conclusion
 
 Any questions?

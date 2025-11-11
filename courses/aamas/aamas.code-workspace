@@ -15,8 +15,12 @@
   ],
   "settings": {
     "files.exclude": {
-      "etpn/": true,
+      "aasma/": true,
       "courses": true
+    },
+    "github.copilot.enable": {
+      "*": true,
+      "markdown": false // Disable Copilot for markdown files because I don't use it for writing notes
     }
   }
 }
