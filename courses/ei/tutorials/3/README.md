@@ -9,7 +9,7 @@ Just replace it with your own topic name.
 ## A. Listing all topics
 
 ```
-sudo /usr/local/kafka/bin/kafka-topics.sh --list --bootstrap-server ec2-44-223-22-176.compute-1.amazonaws.com:9092
+sudo /usr/local/kafka/bin/kafka-topics.sh --list --bootstrap-server localhost:9092
 ```
 
 ## B. Creating one topic with multiple partitions
@@ -45,7 +45,7 @@ sudo /usr/local/kafka/bin/kafka-topics.sh --delete --bootstrap-server ec2-44-223
 ## G. Consuming messages from a topic with multiple partitions
 
 ```
-/usr/local/kafka/bin/kafka-console-consumer.sh --bootstrap-server ec2-44-223-22-176.compute-1.amazonaws.com:9092 --topic clicks --from-beginning
+/usr/local/kafka/bin/kafka-console-consumer.sh --bootstrap-server localhost:9092 --topic selledProductByCustomer --from-beginning
 ```
 
 ## H. Listing the consumer groups

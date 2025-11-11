@@ -15,7 +15,7 @@
   ],
   "settings": {
     "files.exclude": {
-      "cceic/": true,
+      "ei/": true,
       "courses": true
     }
   }
