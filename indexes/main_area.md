@@ -11,9 +11,9 @@
 - [Artificial Intelligence](#artificial-intelligence)
 - [Interaction and Visualization](#interaction-and-visualization)
 - [Games](#games)
-  - [Information Systems](#information-systems)
-  - [Language and Information Technologies](#language-and-information-technologies)
-  - [Enterprise Systems](#enterprise-systems)
+- [Information Systems](#information-systems)
+- [Language and Information Technologies](#language-and-information-technologies)
+- [Enterprise Systems](#enterprise-systems)
 
 </details>
 
@@ -22,6 +22,7 @@
 Course | Acronym | Folder | Fénix Page
 ------ | ------- | ------ | ----------
 Communication Skills in Computer Science and Engineering I | CCEIC | [CCEIC](/courses/cceic/) | [CCEIC - Fénix Page](https://fenix.tecnico.ulisboa.pt/disciplinas/CCEIC11/2024-2025/1-semestre)
+Communication Skills in Computer Science and Engineering II | CCEIC II | [CCEIC II](/courses/cceic-ii/) | [CCEIC - Fénix Page](https://fenix.tecnico.ulisboa.pt/disciplinas/CCEIC23610/2025-2026/2-semestre)
 
 <!-- ## Algorithms and Applications -->
 
@@ -96,7 +97,7 @@ Data Science
 Highly Dependable Systems -->
 
 
-### Information Systems
+## Information Systems
 
 Course | Acronym | Folder | Fénix Page
 ------ | ------- | ------ | ----------
@@ -112,13 +113,13 @@ Enterprise Integration | EI | [EI](/courses/ei/) | [EI - Fénix Page](https://fe
 Cloud Computing and Virtualization
 Highly Dependable Systems -->
 
-### Language and Information Technologies
+## Language and Information Technologies
 
 Course | Acronym | Folder | Fénix Page
 ------ | ------- | ------ | ----------
 Information Visualization | IV | [IV](/courses/iv/) | [IV - Fénix Page](https://fenix.tecnico.ulisboa.pt/cursos/meic-a/disciplina-curricular/564478961778813)
 
-### Enterprise Systems
+## Enterprise Systems
 
 Course | Acronym | Folder | Fénix Page
 ------ | ------- | ------ | ----------
